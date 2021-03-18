@@ -1,4 +1,4 @@
-<h1>Book Recommender System</h1>
+<h1 align='center'>Book Recommender System</h1>
 
 <p align="center">
   <img width="800" height="300" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/old-books-arranged-on-shelf-royalty-free-image-1572384534.jpg">
