@@ -1,0 +1,2513 @@
+book_id,title,authors
+1,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins
+2,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)","J.K. Rowling, Mary GrandPré"
+3,"Twilight (Twilight, #1)",Stephenie Meyer
+4,To Kill a Mockingbird,Harper Lee
+5,The Great Gatsby,F. Scott Fitzgerald
+6,The Fault in Our Stars,John Green
+7,The Hobbit,J.R.R. Tolkien
+8,The Catcher in the Rye,J.D. Salinger
+9,"Angels & Demons  (Robert Langdon, #1)",Dan Brown
+10,Pride and Prejudice,Jane Austen
+11,The Kite Runner,Khaled Hosseini
+12,"Divergent (Divergent, #1)",Veronica Roth
+13,1984,"George Orwell, Erich Fromm, Celâl Üster"
+14,Animal Farm,George Orwell
+15,The Diary of a Young Girl,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday"
+16,"The Girl with the Dragon Tattoo (Millennium, #1)","Stieg Larsson, Reg Keeland"
+17,"Catching Fire (The Hunger Games, #2)",Suzanne Collins
+18,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)","J.K. Rowling, Mary GrandPré, Rufus Beck"
+19,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien
+20,"Mockingjay (The Hunger Games, #3)",Suzanne Collins
+21,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)","J.K. Rowling, Mary GrandPré"
+22,The Lovely Bones,Alice Sebold
+23,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)","J.K. Rowling, Mary GrandPré"
+24,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","J.K. Rowling, Mary GrandPré"
+25,"Harry Potter and the Deathly Hallows (Harry Potter, #7)","J.K. Rowling, Mary GrandPré"
+26,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown
+27,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)","J.K. Rowling, Mary GrandPré"
+28,Lord of the Flies,William Golding
+29,Romeo and Juliet,"William Shakespeare, Robert           Jackson"
+30,Gone Girl,Gillian Flynn
+31,The Help,Kathryn Stockett
+32,Of Mice and Men,John Steinbeck
+33,Memoirs of a Geisha,Arthur Golden
+34,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James
+35,The Alchemist,"Paulo Coelho, Alan R. Clarke"
+36,"The Giver (The Giver, #1)",Lois Lowry
+37,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis
+38,The Time Traveler's Wife,Audrey Niffenegger
+39,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin
+40,"Eat, Pray, Love",Elizabeth Gilbert
+41,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan
+42,"Little Women (Little Women, #1)",Louisa May Alcott
+43,Jane Eyre,"Charlotte Brontë, Michael Mason"
+44,"The Notebook (The Notebook, #1)",Nicholas Sparks
+45,Life of Pi,Yann Martel
+46,Water for Elephants,Sara Gruen
+47,The Book Thief,Markus Zusak
+49,"New Moon (Twilight, #2)",Stephenie Meyer
+50,Where the Sidewalk Ends,Shel Silverstein
+51,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare
+52,"Eclipse (Twilight, #3)",Stephenie Meyer
+53,"Eragon (The Inheritance Cycle, #1)",Christopher Paolini
+54,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams
+55,Brave New World,Aldous Huxley
+56,"Breaking Dawn (Twilight, #4)",Stephenie Meyer
+57,The Secret Life of Bees,Sue Monk Kidd
+58,The Adventures of Huckleberry Finn,"Mark Twain, John Seelye, Guy Cardwell"
+59,Charlotte's Web,"E.B. White, Garth Williams, Rosemary Wells"
+60,The Curious Incident of the Dog in the Night-Time,Mark Haddon
+61,The Girl on the Train,Paula Hawkins
+62,"The Golden Compass (His Dark Materials, #1)",Philip Pullman
+63,Wuthering Heights,"Emily Brontë, Richard J. Dunn"
+64,My Sister's Keeper,Jodi Picoult
+65,Slaughterhouse-Five,Kurt Vonnegut Jr.
+66,Gone with the Wind,Margaret Mitchell
+67,A Thousand Splendid Suns,Khaled Hosseini
+68,The Perks of Being a Wallflower,Stephen Chbosky
+69,"Insurgent (Divergent, #2)",Veronica Roth
+70,"Ender's Game (Ender's Saga, #1)",Orson Scott Card
+71,Frankenstein,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle"
+72,The Shining (The Shining #1),Stephen King
+73,"The Host (The Host, #1)",Stephenie Meyer
+74,Looking for Alaska,John Green
+75,"Bridget Jones's Diary (Bridget Jones, #1)",Helen Fielding
+76,Sense and Sensibility,"Jane Austen, Tony Tanner, Ros Ballaster"
+77,"Holes (Holes, #1)","Louis Sachar, Louis Sachar"
+78,"The Devil Wears Prada (The Devil Wears Prada, #1)",Lauren Weisberger
+79,The Odyssey,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox"
+80,The Little Prince,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta"
+81,The Glass Castle,Jeannette Walls
+82,Into the Wild,Jon Krakauer
+83,A Tale of Two Cities,"Charles Dickens, Richard Maxwell, Hablot Knight Browne"
+85,The Giving Tree,Shel Silverstein
+86,A Time to Kill,John Grisham
+87,Night (The Night Trilogy #1),"Elie Wiesel, Marion Wiesel"
+88,Paper Towns,John Green
+89,The Princess Bride ,William Goldman
+90,The Outsiders,S.E. Hinton
+91,"The Maze Runner (Maze Runner, #1)",James Dashner
+92,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)","Steven D. Levitt, Stephen J. Dubner"
+93,The Secret Garden,Frances Hodgson Burnett
+94,One Hundred Years of Solitude,"Gabriel García Márquez, Gregory Rabassa"
+95,The Picture of Dorian Gray,"Oscar Wilde, Jeffrey Eugenides"
+96,"Fifty Shades Freed (Fifty Shades, #3)",E.L. James
+97,Dracula,"Bram Stoker, Nina Auerbach, David J. Skal"
+98,"The Girl Who Played with Fire (Millennium, #2)","Stieg Larsson, Reg Keeland"
+99,"Fifty Shades Darker (Fifty Shades, #2)",E.L. James
+100,The Poisonwood Bible,Barbara Kingsolver
+101,Me Talk Pretty One Day,David Sedaris
+102,Where the Wild Things Are,Maurice Sendak
+103,The Count of Monte Cristo,"Alexandre Dumas, Robin Buss"
+104,The Road,Cormac McCarthy
+105,"Allegiant (Divergent, #3)",Veronica Roth
+106,Bossypants,Tina Fey
+107,A Walk to Remember,Nicholas Sparks
+108,"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella
+109,Les Misérables,"Victor Hugo, Lee Fahnestock, Norman MacAfee"
+110,"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin
+111,The Memory Keeper's Daughter,Kim Edwards
+112,"Me Before You (Me Before You, #1)",Jojo Moyes
+113,Catch-22,Joseph Heller
+114,Tuesdays with Morrie,"Mitch Albom, Saulius Dagys"
+115,Middlesex,Jeffrey Eugenides
+116,The Adventures of Tom Sawyer,"Mark Twain, Guy Cardwell, John Seelye"
+117,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle
+118,The Joy Luck Club,Amy Tan
+119,The Handmaid's Tale,Margaret Atwood
+120,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares
+121,Lolita,"Vladimir Nabokov, Craig Raine"
+122,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)","Gregory Maguire, Douglas Smith"
+123,"The Firm (Penguin Readers, Level 5)",John Grisham
+124,Room,Emma Donoghue
+125,Hamlet,"William Shakespeare, Richard Andrews, Rex Gibson"
+126,Dune (Dune Chronicles #1),Frank Herbert
+127,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell
+128,Steve Jobs,Walter Isaacson
+129,One Flew Over the Cuckoo's Nest,Ken Kesey
+130,The Old Man and the Sea,Ernest Hemingway
+131,The Grapes of Wrath,John Steinbeck
+132,The Five People You Meet in Heaven,Mitch Albom
+133,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery
+134,"City of Glass (The Mortal Instruments, #3)",Cassandra Clare
+135,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin
+136,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells
+137,"Outlander (Outlander, #1)",Diana Gabaldon
+138,The Scarlet Letter,"Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym"
+139,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",Ransom Riggs
+140,"The Girl Who Kicked the Hornet's Nest (Millennium, #3)","Stieg Larsson, Reg Keeland"
+141,The Martian,Andy Weir
+142,"The Pillars of the Earth (The Kingsbridge Series, #1)",Ken Follett
+143,All the Light We Cannot See,Anthony Doerr
+144,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand
+145,Deception Point,Dan Brown
+146,The Goldfinch,Donna Tartt
+147,Thirteen Reasons Why,Jay Asher
+148,Girl with a Pearl Earring,Tracy Chevalier
+149,"If I Stay (If I Stay, #1)",Gayle Forman
+150,The Red Tent,Anita Diamant
+151,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan
+152,Dear John,Nicholas Sparks
+153,"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare
+154,Macbeth,William Shakespeare
+155,"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien
+156,"Something Borrowed (Darcy & Rachel, #1)",Emily Giffin
+157,Green Eggs and Ham,"Dr. Seuss, לאה נאור"
+158,"Charlie and the Chocolate Factory (Charlie Bucket, #1)","Roald Dahl, Quentin Blake"
+159,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan
+160,Great Expectations,Charles Dickens
+161,"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien
+162,The Stranger,"Albert Camus, Matthew    Ward"
+163,"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan
+164,Eleanor & Park,Rainbow Rowell
+165,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin
+166,"Matched (Matched, #1)",Ally Condie
+167,"American Gods (American Gods, #1)",Neil Gaiman
+168,The Stand,"Stephen King, Bernie Wrightson"
+169,The Last Song,Nicholas Sparks
+170,Digital Fortress,Dan Brown
+171,Emma,"Jane Austen, Fiona Stafford"
+172,Anna Karenina,"Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude"
+173,A Clockwork Orange,Anthony Burgess
+174,The Shack,William Paul Young
+175,"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan
+176,It,Stephen King
+177,Crime and Punishment,"Fyodor Dostoyevsky, David McDuff"
+178,The Bell Jar,Sylvia Plath
+179,"Angela's Ashes (Frank McCourt, #1)",Frank McCourt
+180,Siddhartha,"Hermann Hesse, Hilda Rosner"
+181,In Cold Blood,Truman Capote
+182,"Beautiful Creatures (Caster Chronicles, #1)","Kami Garcia, Margaret Stohl"
+183,"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare
+184,Matilda,"Roald Dahl, Quentin Blake"
+185,The Night Circus,Erin Morgenstern
+186,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory
+187,"Uglies (Uglies, #1)",Scott Westerfeld
+188,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin
+189,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien
+190,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed
+191,Watchmen,"Alan Moore, Dave Gibbons, John Higgins"
+192,"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss
+193,Outliers: The Story of Success,Malcolm Gladwell
+194,"Moby-Dick or, The Whale","Herman Melville, Andrew Delbanco, Tom Quirk"
+195,The Guernsey Literary and Potato Peel Pie Society,"Mary Ann Shaffer, Annie Barrows"
+196,Fight Club,Chuck Palahniuk
+197,"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris
+198,The Color Purple,Alice Walker
+199,Marley and Me: Life and Love With the World's Worst Dog,John Grogan
+200,And Then There Were None,Agatha Christie
+201,"The Lost Symbol (Robert Langdon, #3)",Dan Brown
+202,"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick
+203,"Beautiful Disaster (Beautiful, #1)",Jamie McGuire
+204,A Christmas Carol,Charles Dickens
+205,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice
+206,"The Selection (The Selection, #1)",Kiera Cass
+207,"One for the Money (Stephanie Plum, #1)",Janet Evanovich
+208,The Immortal Life of Henrietta Lacks,Rebecca Skloot
+209,"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas Harris
+210,"Vampire Academy (Vampire Academy, #1)",Richelle Mead
+211,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell
+212,Atonement,Ian McEwan
+213,The Metamorphosis,"Franz Kafka, Stanley Corngold"
+214,"The Titan's Curse (Percy Jackson and the Olympians, #3)",Rick Riordan
+215,Ready Player One,Ernest Cline
+216,The Art of Racing in the Rain,Garth Stein
+217,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America","Erik Larson, Tony Goldwyn"
+218,"Bared to You (Crossfire, #1)",Sylvia Day
+219,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)","C.S. Lewis, Pauline Baynes"
+220,Twilight: The Complete Illustrated Movie Companion,Mark Cotta Vaz
+221,"A Child Called ""It"" (Dave Pelzer #1)",Dave Pelzer
+222,"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum
+223,"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer
+224,"Fallen (Fallen, #1)",Lauren Kate
+225,East of Eden,John Steinbeck
+226,Dark Places,Gillian Flynn
+227,The Client,John Grisham
+228,"The Nanny Diaries (Nanny, #1)","Emma McLaughlin, Nicola Kraus"
+229,Alice's Adventures in Wonderland & Through the Looking-Glass,"Lewis Carroll, John Tenniel, Martin Gardner"
+230,Persuasion,"Jane Austen, James Kinsley, Deidre Shauna Lynch"
+231,Sarah's Key,Tatiana de Rosnay
+232,"The Gunslinger (The Dark Tower, #1)",Stephen King
+233,Love in the Time of Cholera,"Gabriel García Márquez, Edith Grossman"
+234,Speak,Laurie Halse Anderson
+235,The Husband's Secret,Liane Moriarty
+236,Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer
+237,Carrie,Stephen King
+238,Running with Scissors,Augusten Burroughs
+239,World War Z: An Oral History of the Zombie War,Max Brooks
+240,"Inferno (Robert Langdon, #4)",Dan Brown
+241,Number the Stars,Lois Lowry
+242,"Along Came a Spider (Alex Cross, #1)",James Patterson
+243,Misery,Stephen King
+244,Sharp Objects,Gillian Flynn
+245,Bridge to Terabithia,Katherine Paterson
+246,"Marked (House of Night, #1)","P.C. Cast, Kristin Cast"
+247,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey
+248,A Midsummer Night's Dream,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey"
+249,Extremely Loud and Incredibly Close,Jonathan Safran Foer
+250,Wonder,R.J. Palacio
+251,The Cat in the Hat,Dr. Seuss
+252,"Cinder (The Lunar Chronicles, #1)",Marissa Meyer
+253,"The Cuckoo's Calling (Cormoran Strike, #1)","Robert Galbraith, J.K. Rowling"
+254,"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater
+255,Atlas Shrugged,"Ayn Rand, Leonard Peikoff"
+256,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,"Greg Mortenson, David Oliver Relin"
+257,Alice in Wonderland,"Jane Carruth, Lewis Carroll, Rene Cloke"
+258,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)","Carlos Ruiz Zafón, Lucia Graves"
+259,"The Scorch Trials (Maze Runner, #2)",James Dashner
+260,How to Win Friends and Influence People,Dale Carnegie
+261,Under the Tuscan Sun,Frances Mayes
+262,Big Little Lies,Liane Moriarty
+263,Ella Enchanted,Gail Carson Levine
+264,The Sun Also Rises,Ernest Hemingway
+265,A Tree Grows in Brooklyn,Betty  Smith
+266,"Kiss the Girls (Alex Cross, #2)",James Patterson
+267,The Nightingale,Kristin Hannah
+268,Never Let Me Go,Kazuo Ishiguro
+269,P.S. I Love You,Cecelia Ahern
+270,Rebecca,"Daphne du Maurier, Sally Beauman"
+271,Flowers for Algernon,Daniel Keyes
+272,Like Water for Chocolate,"Laura Esquivel, Thomas  Christensen, Carol Christensen"
+273,Snow Flower and the Secret Fan,Lisa See
+274,The Godfather,"Mario Puzo, Robert Thompson, Peter Bart"
+275,An Abundance of Katherines,John Green
+276,Foundation (Foundation #1),Isaac Asimov
+277,The Ocean at the End of the Lane,Neil Gaiman
+278,A Light in the Attic,Shel Silverstein
+279,"Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)","John Tiffany, Jack Thorne, J.K. Rowling"
+280,"Delirium (Delirium, #1)",Lauren Oliver
+281,The Pelican Brief,John Grisham
+282,Coraline,Neil Gaiman
+283,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch","Terry Pratchett, Neil Gaiman"
+284,On the Road,Jack Kerouac
+285,"The Rosie Project (Don Tillman, #1)",Graeme Simsion
+286,The Lucky One,Nicholas Sparks
+287,The Fountainhead,"Ayn Rand, Leonard Peikoff"
+288,"The Hunt for Red October (Jack Ryan Universe, #4)",Tom Clancy
+289,"Watership Down (Watership Down, #1)",Richard Adams
+290,Is Everyone Hanging Out Without Me? (And Other Concerns),Mindy Kaling
+291,Cutting for Stone,Abraham Verghese
+292,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)","C.S. Lewis, Pauline Baynes"
+293,Treasure Island,Robert Louis Stevenson
+294,"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan
+295,11/22/63,Stephen King
+296,The Very Hungry Caterpillar Board Book,Eric Carle
+297,Cat's Cradle,Kurt Vonnegut Jr.
+298,The Time Machine,"H.G. Wells, Greg Bear, Carlo Pagetti"
+299,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,"Todd Burpo, Lynn Vincent"
+300,The Boy in the Striped Pajamas,John Boyne
+301,Heart of Darkness,Joseph Conrad
+302,Safe Haven,Nicholas Sparks
+303,"The Secret (The Secret, #1)",Rhonda Byrne
+304,I Know This Much Is True,Wally Lamb
+305,Pet Sematary,Stephen King
+306,She's Come Undone,Wally Lamb
+307,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss
+308,Can You Keep a Secret?,Sophie Kinsella
+309,"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare
+310,"Good in Bed (Cannie Shapiro, #1)",Jennifer Weiner
+311,The Thorn Birds,Colleen McCullough
+312,The Graveyard Book,"Neil Gaiman, Dave McKean"
+313,The Light Between Oceans,M.L. Stedman
+314,"Inkheart (Inkworld, #1)","Cornelia Funke, Anthea Bell"
+315,Who Moved My Cheese?,"Spencer Johnson, Kenneth H. Blanchard"
+316,A Walk in the Woods,Bill Bryson
+317,I Know Why the Caged Bird Sings,Maya Angelou
+318,Orphan Train,Christina Baker Kline
+319,"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare
+320,"Where'd You Go, Bernadette",Maria Semple
+321,Where the Red Fern Grows,Wilson Rawls
+322,Neverwhere,Neil Gaiman
+323,The Unbearable Lightness of Being,"Milan Kundera, Michael Henry Heim"
+324,Fangirl,Rainbow Rowell
+325,A Prayer for Owen Meany,John Irving
+326,White Oleander,Janet Fitch
+327,"Legend (Legend, #1)",Marie Lu
+328,Nineteen Minutes,Jodi Picoult
+329,The Last Lecture,"Randy Pausch, Jeffrey Zaslow"
+330,"The Eye of the World (Wheel of Time, #1)",Robert Jordan
+331,The Pact,Jodi Picoult
+332,"The Magician's Nephew (Chronicles of Narnia, #6)",C.S. Lewis
+333,Still Alice,Lisa Genova
+334,"Reflected in You (Crossfire, #2)",Sylvia Day
+335,James and the Giant Peach,"Roald Dahl, Quentin Blake"
+336,"1st to Die (Women's Murder Club, #1)",James Patterson
+337,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams
+338,One Day,David Nicholls
+339,Goodnight Moon,"Margaret Wise Brown, Clement Hurd"
+340,"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore
+341,The Iliad,"Homer, Robert Fagles, Frédéric Mugler, Bernard Knox"
+342,The Casual Vacancy,J.K. Rowling
+343,The Runaway Jury,John Grisham
+344,Naked,David Sedaris
+345,"Eldest (The Inheritance Cycle, #2)",Christopher Paolini
+346,"The Wonderful Wizard of Oz (Oz, #1)","L. Frank Baum, W.W. Denslow"
+347,"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis
+348,We Were Liars,E. Lockhart
+349,'Salem's Lot,Stephen King
+350,Fear and Loathing in Las Vegas,"Hunter S. Thompson, Ralph Steadman"
+351,"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare
+352,Yes Please,Amy Poehler
+353,Othello,William Shakespeare
+354,Beloved,Toni Morrison
+355,"Graceling (Graceling Realm, #1)",Kristin Cashore
+356,"The Bad Beginning (A Series of Unfortunate Events, #1)","Lemony Snicket, Brett Helquist"
+357,All Quiet on the Western Front,"Erich Maria Remarque, A.W. Wheen"
+358,"Oh, The Places You'll Go!",Dr. Seuss
+359,And the Mountains Echoed,Khaled Hosseini
+360,Do Androids Dream of Electric Sheep?,"Philip K. Dick, Roger Zelazny"
+361,Oliver Twist,"Charles Dickens, George Cruikshank, Philip Horne"
+362,The Screwtape Letters,C.S. Lewis
+363,"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins
+364,How the Grinch Stole Christmas!,Dr. Seuss
+365,V for Vendetta,"Alan Moore, David   Lloyd"
+366,John Adams,David McCullough
+367,"Odd Thomas (Odd Thomas, #1)",Dean Koontz
+368,"The Subtle Knife (His Dark Materials, #2)",Philip Pullman
+369,"Stargirl (Stargirl, #1)",Jerry Spinelli
+370,"The Red Pyramid (Kane Chronicles, #1)",Rick Riordan
+371,Stranger in a Strange Land,Robert A. Heinlein
+372,Dress Your Family in Corduroy and Denim,David Sedaris
+373,The BFG,"Roald Dahl, Quentin Blake"
+374,A Short History of Nearly Everything,Bill Bryson
+375,The Call of the Wild,Jack London
+376,"The Death Cure (Maze Runner, #3)",James Dashner
+377,Stardust,Neil Gaiman
+378,The Namesake,Jhumpa Lahiri
+379,"A Discovery of Witches (All Souls Trilogy, #1)",Deborah Harkness
+380,Norwegian Wood,"Haruki Murakami, Jay Rubin"
+381,Where the Heart Is,Billie Letts
+382,"Will Grayson, Will Grayson","John Green, David Levithan"
+383,A Million Little Pieces,James Frey
+384,"Frostbite (Vampire Academy, #2)",Richelle Mead
+385,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain
+386,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",Scott O'Dell
+387,The Crucible,"Arthur Miller, Christopher Bigsby"
+388,"Hatchet (Brian's Saga, #1)",Gary Paulsen
+389,"The Final Empire (Mistborn, #1)",Brandon Sanderson
+390,The Strange Case of Dr. Jekyll and Mr. Hyde,"Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon"
+391,The Lorax,Dr. Seuss
+392,"Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",Jeff Kinney
+393,"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas
+394,"Shadow Kiss (Vampire Academy, #3)",Richelle Mead
+395,For Whom the Bell Tolls,Ernest Hemingway
+396,Hotel on the Corner of Bitter and Sweet,Jamie Ford
+397,Perfume: The Story of a Murderer,"Patrick Süskind, John E. Woods"
+398,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser
+399,The Tales of Beedle the Bard,J.K. Rowling
+400,Neuromancer,William Gibson
+401,A Farewell to Arms,Ernest Hemingway
+402,The Tell-Tale Heart and Other Writings,Edgar Allan Poe
+403,The Art of War,"Sun Tzu, Thomas Cleary"
+404,Defending Jacob,William Landay
+405,Breakfast of Champions,Kurt Vonnegut Jr.
+406,The New Drawing on the Right Side of the Brain,Betty Edwards
+407,Bel Canto,Ann Patchett
+408,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond
+409,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg
+410,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe
+411,The Undomestic Goddess,Sophie Kinsella
+412,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman
+413,The Three Musketeers,Alexandre Dumas
+414,Little Bee,Chris Cleave
+415,"Evermore (The Immortals, #1)",Alyson Noel
+416,The Witches,"Roald Dahl, Quentin Blake"
+417,The Thirteenth Tale,Diane Setterfield
+418,"Spirit Bound (Vampire Academy, #5)",Richelle Mead
+419,"Blood Promise (Vampire Academy, #4)",Richelle Mead
+420,Message in a Bottle,Nicholas Sparks
+421,The Paris Wife,Paula McLain
+422,"Harry Potter Boxset (Harry Potter, #1-7)",J.K. Rowling
+423,"The Elite (The Selection, #2)",Kiera Cass
+424,The Name of the Rose,"Umberto Eco, William Weaver, Seán Barrett"
+425,Go Ask Alice,"Beatrice Sparks, Anonymous"
+426,A Confederacy of Dunces,"John Kennedy Toole, Walker Percy"
+427,The Importance of Being Earnest,Oscar Wilde
+428,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan
+429,"The Color of Magic (Discworld, #1; Rincewind #1)",Terry Pratchett
+430,Kafka on the Shore,"Haruki Murakami, Philip Gabriel"
+431,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris
+432,"I, Robot (Robot #0.1)",Isaac Asimov
+433,"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward
+434,"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick
+435,Before I Fall,Lauren Oliver
+436,The God of Small Things,Arundhati Roy
+437,The Invention of Wings,Sue Monk Kidd
+438,What Alice Forgot,Liane Moriarty
+439,A Brief History of Time,"Stephen Hawking, Cao Chi, Phạm Văn Thiều"
+440,"Fall of Giants (The Century Trilogy, #1)",Ken Follett
+441,Under the Dome,Stephen King
+442,Snow Crash,Neal Stephenson
+443,Just Listen,Sarah Dessen
+444,"Winnie-the-Pooh (Winnie-the-Pooh, #1)","A.A. Milne, Ernest H. Shepard"
+445,Before I Go to Sleep,S.J. Watson
+446,A Study in Scarlet,Arthur Conan Doyle
+447,"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini
+448,The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren
+449,"Betrayed (House of Night, #2)","P.C. Cast, Kristin Cast"
+450,"Storm Front (The Dresden Files, #1)",Jim Butcher
+451,Northanger Abbey,"Jane Austen, Alfred MacAdam"
+452,"The 5th Wave (The 5th Wave, #1)",Rick Yancey
+453,Cold Mountain,Charles Frazier
+454,If You Give a Mouse a Cookie,"Laura Joffe Numeroff, Felicia Bond"
+455,"Something Blue (Darcy & Rachel, #2)",Emily Giffin
+456,A Streetcar Named Desire,Tennessee Williams
+457,The Historian,Elizabeth Kostova
+458,Station Eleven,Emily St. John Mandel
+459,A Man Called Ove,"Fredrik Backman, Henning Koch"
+460,"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare
+461,"The Good Earth (House of Earth, #1)",Pearl S. Buck
+463,"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon
+464,Holy Bible: King James Version,Anonymous
+465,In Her Shoes,Jennifer Weiner
+466,The Hobbit: Graphic Novel,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming"
+467,The Brief Wondrous Life of Oscar Wao,Junot Díaz
+468,Their Eyes Were Watching God,Zora Neale Hurston
+469,Fantastic Beasts and Where to Find Them,"Newt Scamander, J.K. Rowling, Albus Dumbledore"
+470,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,"Malala Yousafzai, Christina Lamb"
+471,Mansfield Park,"Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont"
+472,Man's Search for Meaning,Viktor E. Frankl
+473,"In the Woods (Dublin Murder Squad, #1)",Tana French
+474,The God Delusion,Richard Dawkins
+475,"Where She Went (If I Stay, #2)",Gayle Forman
+476,The World According to Garp,John Irving
+477,"Killing Floor (Jack Reacher, #1)",Lee Child
+478,Robinson Crusoe,"Daniel Defoe, Gerald McCann, Virginia Woolf"
+479,The Prince,"Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez"
+480,"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman
+481,"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind
+482,The Kitchen House,Kathleen Grissom
+483,Franny and Zooey,J.D. Salinger
+484,Choke,Chuck Palahniuk
+485,The Brothers Karamazov,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky"
+486,"The City of Ember (Book of Ember, #1)",Jeanne DuPrau
+487,The Andromeda Strain,Michael Crichton
+488,The Green Mile,Stephen King
+489,The Prophet,Kahlil Gibran
+490,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",Art Spiegelman
+491,"Untamed (House of Night, #4)","P.C. Cast, Kristin Cast"
+492,"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card
+493,Mere Christianity,C.S. Lewis
+494,The Secret History,Donna Tartt
+495,A Heartbreaking Work of Staggering Genius,Dave Eggers
+496,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel
+497,Black Beauty,Anna Sewell
+498,War and Peace,"Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude"
+499,American Psycho,Bret Easton Ellis
+500,"The Princess Diaries (The Princess Diaries, #1)",Meg Cabot
+501,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith
+502,"The Walking Dead, Vol. 01: Days Gone Bye","Robert Kirkman, Tony Moore"
+503,"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke
+504,Redeeming Love,Francine Rivers
+505,"Left Behind (Left Behind, #1)","Tim LaHaye, Jerry B. Jenkins"
+506,"The One (The Selection, #3)",Kiera Cass
+507,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins
+508,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich
+509,Remember Me?,Sophie Kinsella
+510,"The Great Hunt (Wheel of Time, #2)",Robert Jordan
+511,"Postmortem (Kay Scarpetta, #1)",Patricia Cornwell
+512,The Complete Stories and Poems,Edgar Allan Poe
+513,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,"Corrie ten Boom, John Sherrill, Elizabeth Sherrill"
+514,The Adventures of Sherlock Holmes,Arthur Conan Doyle
+515,The Prince of Tides,Pat Conroy
+516,The Amazing Adventures of Kavalier & Clay,Michael Chabon
+517,"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles
+518,Peter Pan,"J.M. Barrie, Michael Hague"
+519,"Pretties (Uglies, #2)",Scott Westerfeld
+520,The Wind-Up Bird Chronicle,"Haruki Murakami, Jay Rubin"
+521,"The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)",Michael Connelly
+522,Cloud Atlas,David Mitchell
+523,The Things They Carried,Tim O'Brien
+525,"Pandemonium (Delirium, #2)",Lauren Oliver
+526,"Darkly Dreaming Dexter (Dexter, #1)",Jeff Lindsay
+527,"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris
+528,"The Dragon Reborn (Wheel of Time, #3)",Robert Jordan
+529,Gulliver's Travels,"Jonathan Swift, Robert DeMaria Jr."
+530,Much Ado About Nothing,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson"
+531,Beowulf,"Unknown, Seamus Heaney"
+532,Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil"
+533,Go Set a Watchman,Harper Lee
+534,When You Are Engulfed in Flames,David Sedaris
+535,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor
+536,"Red Queen (Red Queen, #1)",Victoria Aveyard
+537,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg
+538,Midnight in the Garden of Good and Evil,John Berendt
+539,"Hopeless (Hopeless, #1)",Colleen Hoover
+540,A Little Princess,"Frances Hodgson Burnett, Nancy Bond"
+541,The Truth About Forever,Sarah Dessen
+542,"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis
+543,"Last Sacrifice (Vampire Academy, #6)",Richelle Mead
+544,"Little House on the Prairie (Little House, #2)","Laura Ingalls Wilder, Garth Williams"
+545,The Velveteen Rabbit,"Margery Williams Bianco, William   Nicholson"
+546,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig
+547,The War of the Worlds,"H.G. Wells, Arthur C. Clarke"
+548,"Pretty Little Liars (Pretty Little Liars, #1)",Sara Shepard
+549,Corduroy,Don Freeman
+550,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan
+551,Life After Life,Kate Atkinson
+552,The Rescue,Nicholas Sparks
+553,Needful Things,Stephen King
+554,"Voyager (Outlander, #3)",Diana Gabaldon
+555,"Hamlet: Screenplay, Introduction And Film Diary","Kenneth Branagh, William Shakespeare"
+557,The Virgin Suicides,Jeffrey Eugenides
+558,"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris
+559,Tess of the D'Urbervilles,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet"
+560,Madame Bovary,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall"
+561,The Phantom Tollbooth,"Norton Juster, Jules Feiffer"
+562,"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson
+563,"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris
+564,It's Kind of a Funny Story,Ned Vizzini
+565,"The Well of Ascension (Mistborn, #2)",Brandon Sanderson
+566,"After You (Me Before You, #2)",Jojo Moyes
+567,The Language of Flowers,Vanessa Diffenbaugh
+568,"Batman: The Dark Knight Returns (The Dark Knight Saga, #1)","Frank Miller, Klaus Janson, Lynn Varley"
+569,"The Angel Experiment (Maximum Ride, #1)",James Patterson
+570,High Fidelity,Nick Hornby
+571,The Guardian,Nicholas Sparks
+572,"Oryx and Crake (MaddAddam, #1)",Margaret Atwood
+573,"Men Are from Mars, Women Are from Venus",John Gray
+574,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain
+575,Timeline,Michael Crichton
+576,Candide,Voltaire
+577,Tuck Everlasting,Natalie Babbitt
+579,Are You My Mother?,P.D. Eastman
+581,"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer
+582,"Rich Dad, Poor Dad",Robert T. Kiyosaki
+583,"Silence (Hush, Hush, #3)",Becca Fitzpatrick
+584,The Magicians (The Magicians #1),Lev Grossman
+585,"Death Note, Vol. 1: Boredom (Death Note, #1)","Tsugumi Ohba, Takeshi Obata"
+586,"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray
+587,Everything Is Illuminated,Jonathan Safran Foer
+588,"The Bourne Supremacy (Jason Bourne, #2)",Robert Ludlum
+589,"Easy (Contours of the Heart, #1)",Tammara Webber
+590,David Copperfield,"Charles Dickens, Jeremy Tambling"
+591,The Absolutely True Diary of a Part-Time Indian,"Sherman Alexie, Ellen Forney"
+592,The Master and Margarita,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer"
+593,"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin
+594,Because of Winn-Dixie,"Kate DiCamillo, Chris Sheban"
+595,A Separate Peace,John Knowles
+596,The Rainmaker,John Grisham
+597,Don Quixote,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford"
+598,"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb
+599,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",Douglas Adams
+600,"Torment (Fallen, #2)",Lauren Kate
+601,The Tale of Peter Rabbit,Beatrix Potter
+602,"The Silver Chair (Chronicles of Narnia, #4)","C.S. Lewis, Pauline Baynes"
+603,"The Hero of Ages (Mistborn, #3)",Brandon Sanderson
+604,"Girl, Interrupted",Susanna Kaysen
+605,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler
+606,Jonathan Livingston Seagull,"Richard Bach, Russell Munson"
+607,"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare
+608,Love You Forever,"Robert Munsch, Sheila McGraw"
+609,Cell,Stephen King
+610,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown
+611,The Silmarillion (Middle-Earth Universe),"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith"
+612,"The Drawing of the Three (The Dark Tower, #2)",Stephen King
+613,The Forgotten Garden,Kate Morton
+614,The Trial,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod"
+615,This Lullaby,Sarah Dessen
+616,Plain Truth,Jodi Picoult
+617,Orange Is the New Black,Piper Kerman
+618,The Hound of the Baskervilles,"Arthur Conan Doyle, Anne Perry"
+619,"Thinking, Fast and Slow",Daniel Kahneman
+620,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley
+621,"Are You There God? It's Me, Margaret",Judy Blume
+622,Nights in Rodanthe,Nicholas Sparks
+623,"Mr. Mercedes (Bill Hodges Trilogy, #1)",Stephen King
+624,"All Together Dead (Sookie Stackhouse, #7)",Charlaine Harris
+625,Midwives,Chris Bohjalian
+626,The Polar Express,Chris Van Allsburg
+627,The True Story of the 3 Little Pigs,"Jon Scieszka, Lane Smith"
+628,"Patriot Games (Jack Ryan Universe, #2)",Tom Clancy
+629,Veronika Decides to Die,"Paulo Coelho, Margaret Jull Costa"
+630,"Lean In: Women, Work, and the Will to Lead","Sheryl Sandberg, Nell Scovell"
+631,"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris
+632,"Shatter Me (Shatter Me, #1)",Tahereh Mafi
+633,Starship Troopers,Robert A. Heinlein
+634,I've Got Your Number,Sophie Kinsella
+635,Sophie's World,"Jostein Gaarder, Paulette Møller"
+636,"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",Mark Cotta Vaz
+637,The Martian Chronicles,Ray Bradbury
+638,A Visit from the Goon Squad,Jennifer Egan
+639,Heidi,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary"
+640,Prey,Michael Crichton
+641,"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis
+642,"World Without End (The Kingsbridge Series, #2)",Ken Follett
+643,"Chosen (House of Night, #3)","P.C. Cast, Kristin Cast"
+644,"Slammed (Slammed, #1)",Colleen Hoover
+645,"Beastly (Beastly, #1; Kendra Chronicles, #1)",Alex Flinn
+646,The Canterbury Tales,"Geoffrey Chaucer, Nevill Coghill"
+647,Baby Proof,Emily Giffin
+648,"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini
+649,1Q84,"Haruki Murakami, Jay Rubin, Philip Gabriel"
+650,Uncle Tom's Cabin,Harriet Beecher Stowe
+651,The Phantom of the Opera,"Gaston Leroux, Alexander Teixeira de Mattos"
+652,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris
+653,Blindness,"José Saramago, Giovanni Pontiero"
+654,Freedom,Jonathan Franzen
+655,"Crossed (Matched, #2)",Ally Condie
+656,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter
+657,The White Tiger,Aravind Adiga
+658,The Corrections,Jonathan Franzen
+659,Dreams from My Father: A Story of Race and Inheritance,Barack Obama
+660,Congo,Michael Crichton
+661,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Judith Viorst, Ray Cruz"
+662,Interpreter of Maladies,Jhumpa Lahiri
+663,A People's History of the United States,Howard Zinn
+664,Breakfast at Tiffany's,Truman Capote
+665,"The Passage (The Passage, #1)",Justin Cronin
+666,Anansi Boys,Neil Gaiman
+667,Along for the Ride,Sarah Dessen
+668,Everything I Never Told You,Celeste Ng
+669,The House of the Spirits,"Isabel Allende, Magda Bogin"
+670,The Dead Zone,Stephen King
+671,"The Mysterious Affair at Styles (Hercule Poirot, #1)","Agatha Christie, Ροζίτα Σώκου"
+672,"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie
+673,Americanah,Chimamanda Ngozi Adichie
+674,Suzanne's Diary for Nicholas,James Patterson
+675,Firestarter,Stephen King
+676,"Entwined with You (Crossfire, #3)",Sylvia Day
+677,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall
+678,The Storied Life of A.J. Fikry,Gabrielle Zevin
+679,Madeline,Ludwig Bemelmans
+680,Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century,Napoleon Hill
+681,"Little House in the Big Woods (Little House, #1)","Laura Ingalls Wilder, Garth Williams"
+682,Jonathan Strange & Mr Norrell,Susanna Clarke
+683,A Bend in the Road,Nicholas Sparks
+684,"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan
+685,"Gone (Gone, #1)",Michael  Grant
+686,"The Wedding (The Notebook, #2)",Nicholas Sparks
+687,1776,David McCullough
+688,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer
+689,Beautiful Ruins,Jess Walter
+690,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama
+691,On Writing: A Memoir of the Craft,Stephen King
+692,"Firefly Lane (Firefly Lane, #1)",Kristin Hannah
+693,Sphere,Michael Crichton
+694,Love the One You're With,Emily Giffin
+695,"The Silkworm (Cormoran Strike, #2)","Robert Galbraith, J.K. Rowling"
+696,"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice
+697,State of Wonder,Ann Patchett
+698,The Silver Linings Playbook,Matthew Quick
+699,Twenty Thousand Leagues Under the Sea,"Jules Verne, Anthony Bonner"
+700,"The Constant Princess (The Plantagenet and Tudor Novels, #6)",Philippa Gregory
+701,Mrs. Dalloway,"Virginia Woolf, Maureen Howard"
+702,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,"Jonas Jonasson, Rod Bradbury"
+703,Bag of Bones,Stephen King
+704,The Cider House Rules,John Irving
+705,Thinner,"Richard Bachman, Stephen King"
+706,Around the World in Eighty Days,"Jules Verne, Michael Glencross, Brian W. Aldiss"
+707,Walk Two Moons,Sharon Creech
+708,Eleven Minutes,"Paulo Coelho, Margaret Jull Costa"
+709,Nine Stories,J.D. Salinger
+710,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",Julie Powell
+711,"Unwind (Unwind, #1)",Neal Shusterman
+712,"Drums of Autumn (Outlander, #4)",Diana Gabaldon
+713,"Prodigy (Legend, #2)",Marie Lu
+714,King Lear,William Shakespeare
+715,Death of a Salesman,Arthur Miller
+716,The Choice,Nicholas Sparks
+717,The Hunger Games: Official Illustrated Movie Companion,Kate Egan
+718,The Sound and the Fury,William Faulkner
+719,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle
+720,"Bleach, Volume 01",Tite Kubo
+721,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Allie Brosh
+722,"The Shadow Rising (Wheel of Time, #4)",Robert Jordan
+723,Shantaram,Gregory David Roberts
+724,"From Dead to Worse (Sookie Stackhouse, #8)",Charlaine Harris
+725,"The Waste Lands (The Dark Tower, #3)","Stephen King, Ned Dameron"
+726,"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver
+727,The Reader,"Bernhard Schlink, Carol Brown Janeway"
+728,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr., Eric Carle"
+729,"Hyperion (Hyperion Cantos, #1)",Dan Simmons
+730,The Pearl,John Steinbeck
+731,The Exorcist,William Peter Blatty
+732,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)",Stephenie Meyer
+733,Snow Falling on Cedars,David Guterson
+734,Roots: The Saga of an American Family,Alex Haley
+735,Batman: The Killing Joke,"Alan Moore, Brian Bolland, Tim Sale"
+736,Invisible Man,Ralph Ellison
+737,A Long Way Gone: Memoirs of a Boy Soldier,Ishmael Beah
+738,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",Robert C. O'Brien
+739,Different Seasons,Stephen King
+740,"The Little House Collection (Little House, #1-9)","Laura Ingalls Wilder, Garth Williams"
+741,The Girls' Guide to Hunting and Fishing,Melissa Bank
+742,"Wool Omnibus (Silo, #1)",Hugh Howey
+743,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore
+744,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle
+745,Let's Pretend This Never Happened: A Mostly True Memoir,Jenny  Lawson
+746,"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch
+747,"Sabriel (Abhorsen,  #1)",Garth Nix
+748,"Dead and Gone (Sookie Stackhouse, #9)",Charlaine Harris
+749,The Storyteller,Jodi Picoult
+750,"Obsidian (Lux, #1)",Jennifer L. Armentrout
+751,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",Douglas Adams
+752,"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas
+753,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley
+754,Half Broke Horses,Jeannette Walls
+755,"Mort (Death, #1; Discworld, #4)",Terry Pratchett
+756,"The Iron King (The Iron Fey, #1)",Julie Kagawa
+757,Lonesome Dove,Larry McMurtry
+758,Stiff: The Curious Lives of Human Cadavers,Mary Roach
+759,"Bloodlines (Bloodlines, #1)",Richelle Mead
+760,"Ender's Shadow (Ender's Shadow, #1)",Orson Scott Card
+761,Twenties Girl,Sophie Kinsella
+762,Schindler's List,Thomas Keneally
+763,The Bluest Eye,Toni Morrison
+764,"The White Queen (The Plantagenet and Tudor Novels, #2)",Philippa Gregory
+765,The Autobiography of Malcolm X,"Malcolm X, Alex Haley"
+766,Preludes & Nocturnes (The Sandman #1),"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger"
+767,Seabiscuit: An American Legend,Laura Hillenbrand
+768,Shutter Island,Dennis Lehane
+769,The Complete Sherlock Holmes,Arthur Conan Doyle
+770,Julius Caesar,"William Shakespeare, Roma Gill"
+771,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson
+772,The Republic,"Plato, Desmond Lee"
+773,The Taming of the Shrew,William Shakespeare
+774,"Cress (The Lunar Chronicles, #3)",Marissa Meyer
+775,Just Kids,Patti Smith
+777,Jemima J,Jane Green
+778,The Hunchback of Notre-Dame,"Victor Hugo, Walter J. Cobb"
+779,A Fine Balance,Rohinton Mistry
+780,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau"
+781,"Specials (Uglies, #3)",Scott Westerfeld
+782,The Awakening,Kate Chopin
+783,"Hunted (House of Night, #5)","P.C. Cast, Kristin Cast"
+784,For One More Day,Mitch Albom
+785,"Clear and Present Danger (Jack Ryan Universe, #6)",Tom Clancy
+786,Falling Up,Shel Silverstein
+787,Sh*t My Dad Says,Justin Halpern
+789,Foundation and Empire (Foundation #2),Isaac Asimov
+790,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz
+791,House Rules,Jodi Picoult
+792,The Complete Grimm's Fairy Tales,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern"
+793,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg
+794,"Doctor Sleep (The Shining, #2)",Stephen King
+795,About a Boy,Nick Hornby
+796,"On Dublin Street (On Dublin Street, #1)",Samantha Young
+797,Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin"
+798,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss
+799,Watchers,Dean Koontz
+800,The Story of My Life,Helen Keller
+801,This is Where I Leave You,Jonathan Tropper
+802,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith
+803,"Fruits Basket, Vol. 1","Natsuki Takaya, Alethea Nibley, Athena Nibley"
+804,The Tempest,William Shakespeare
+805,"Burned (House of Night, #7)","P.C. Cast, Kristin Cast"
+806,"Wizard and Glass (The Dark Tower, #4)","Stephen King, Dave McKean"
+807,The Circle,Dave Eggers
+808,The Invention of Hugo Cabret,Brian Selznick
+809,Brave New World / Brave New World Revisited,"Aldous Huxley, Christopher Hitchens"
+810,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club, #1)",Bisco Hatori
+811,The Good Girl,Mary Kubica
+812,"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",Abbi Glines
+813,Landline,Rainbow Rowell
+814,"Tempted (House of Night, #6)","P.C. Cast, Kristin Cast"
+815,No Country for Old Men,Cormac McCarthy
+816,"Wolf Hall (Thomas Cromwell, #1)",Hilary Mantel
+817,"Howl's Moving Castle (Howl's Moving Castle, #1)",Diana Wynne Jones
+819,Walden,Henry David Thoreau
+820,The Remains of the Day,Kazuo Ishiguro
+821,The Best of Me,Nicholas Sparks
+822,The Sense of an Ending,Julian Barnes
+823,"A is for Alibi (Kinsey Millhone, #1)",Sue Grafton
+824,"Oedipus Rex  (The Theban Plays, #1)","Sophocles, J.E. Thomas"
+825,Shanghai Girls (Shanghai Girls #1),Lisa See
+826,The Wind in the Willows,"Kenneth Grahame, Gillian Avery"
+827,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han
+828,"Persepolis: The Story of a Childhood (Persepolis, #1)","Marjane Satrapi, Mattias Ripa"
+829,A Room with a View,E.M. Forster
+830,The DUFF: Designated Ugly Fat Friend,Kody Keplinger
+831,Lock and Key,Sarah Dessen
+832,"Naked in Death (In Death, #1)",J.D. Robb
+833,The Chamber,John Grisham
+834,"Midnight Sun (Twilight, #1.5)",Stephenie Meyer
+835,"Naruto, Vol. 01: The Tests of the Ninja (Naruto, #1)","Masashi Kishimoto, Katy Bridges"
+836,"The Unlikely Pilgrimage of Harold Fry (Harold Fry, #1)",Rachel Joyce
+837,"Every Day (Every Day, #1)",David Levithan
+838,"Xenocide (Ender's Saga, #3)",Orson Scott Card
+839,The Merchant of Venice,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine"
+840,"Shōgun (Asian Saga, #1)",James Clavell
+841,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward
+842,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas
+843,"Fifty Shades Trilogy (Fifty Shades, #1-3)",E.L. James
+844,Chicka Chicka Boom Boom,"Bill Martin Jr., John Archambault, Lois Ehlert"
+846,Animal Farm / 1984,"George Orwell, Christopher Hitchens"
+847,"The Deep End of the Ocean (Cappadora Family, #1)",Jacquelyn Mitchard
+848,The Bonesetter's Daughter,Amy Tan
+849,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",Louise Rennison
+850,"Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",Robin Sloan
+851,"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews
+852,When Breath Becomes Air,"Paul Kalanithi, Abraham Verghese"
+853,Maniac Magee,Jerry Spinelli
+854,Invisible Monsters,Chuck Palahniuk
+855,Twelfth Night,William Shakespeare
+856,"Gathering Blue (The Giver, #2)",Lois Lowry
+857,The Westing Game,Ellen Raskin
+858,"Red Rising (Red Rising, #1)",Pierce Brown
+859,"The Way of Shadows (Night Angel, #1)",Brent Weeks
+860,"The Bean Trees (Greer Family, #1)",Barbara Kingsolver
+861,"Walking Disaster (Beautiful, #2)",Jamie McGuire
+862,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson
+863,Guess How Much I Love You,"Sam McBratney, Anita Jeram"
+864,"The Fiery Cross (Outlander, #5)",Diana Gabaldon
+865,Night Shift,"Stephen King, John D. MacDonald"
+866,Jaws,Peter Benchley
+867,The History of Love,Nicole Krauss
+868,Pippi Longstocking,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn"
+869,The Elegance of the Hedgehog,"Muriel Barbery, Alison Anderson"
+870,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren"
+871,"Dead in the Family (Sookie Stackhouse, #10)",Charlaine Harris
+872,The Plague,"Albert Camus, Stuart Gilbert"
+873,"The Reptile Room (A Series of Unfortunate Events, #2)","Lemony Snicket, Brett Helquist"
+874,Brain on Fire: My Month of Madness,Susannah Cahalan
+875,"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr
+876,Curious George,H.A. Rey
+877,The Neverending Story,"Michael Ende, Ralph Manheim, Roswitha Quadflieg"
+878,A Beautiful Mind,Sylvia Nasar
+879,The Jungle,"Upton Sinclair, Earl Lee, Kathleen DeGrave"
+880,"The Summoning (Darkest Powers, #1)",Kelley Armstrong
+881,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks
+882,Eye of the Needle,Ken Follett
+883,The Blind Assassin,Margaret Atwood
+884,"Hollow City (Miss Peregrine’s Peculiar Children, #2)",Ransom Riggs
+885,House of Sand and Fog,Andre Dubus III
+886,The Girl with All the Gifts,M.R. Carey
+887,As I Lay Dying,William Faulkner
+888,Harold and the Purple Crayon,Crockett Johnson
+889,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward
+890,Second Foundation (Foundation #3),Isaac Asimov
+891,"Fool Moon (The Dresden Files, #2)",Jim Butcher
+892,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell
+893,"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)","Hiromu Arakawa, Akira Watanabe"
+894,"Guards! Guards! (Discworld, #8)",Terry Pratchett
+895,The Year of Magical Thinking,Joan Didion
+896,We Need to Talk About Kevin,Lionel Shriver
+897,"Rendezvous with Rama (Rama, #1)",Arthur C. Clarke
+898,"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice
+899,The Age of Innocence,"Edith Wharton, Maureen Howard"
+900,The Selfish Gene,Richard Dawkins
+901,Year of Wonders,Geraldine Brooks
+902,"The Black Echo (Harry Bosch, #1; Harry Bosch Universe, #1)",Michael Connelly
+903,Anthem,Ayn Rand
+904,"Gabriel's Inferno (Gabriel's Inferno, #1)",Sylvain Reynard
+905,Cloudy With a Chance of Meatballs,"Judi Barrett, Ron Barrett"
+906,Major Pettigrew's Last Stand,Helen Simonson
+907,"Vision in White (Bride Quartet, #1)",Nora Roberts
+908,The Tenth Circle,Jodi Picoult
+909,"The Throne of Fire (Kane Chronicles, #2)",Rick Riordan
+910,"Old Man's War (Old Man's War, #1)",John Scalzi
+911,Gerald's Game,Stephen King
+912,"Two for the Dough (Stephanie Plum, #2)",Janet Evanovich
+913,The Joy of Cooking,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker"
+914,"The Forever War (The Forever War, #1)",Joe Haldeman
+916,Reading Lolita in Tehran,Azar Nafisi
+917,"The Blade Itself (The First Law, #1)",Joe Abercrombie
+918,"The Arctic Incident (Artemis Fowl, #2)",Eoin Colfer
+919,The Shipping News,Annie Proulx
+920,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,"Marie Kondō, Cathy Hirano"
+921,All the Bright Places,"Jennifer Niven, فرانک معنوی"
+922,"Déjà Dead (Temperance Brennan, #1)",Kathy Reichs
+923,"The Alchemyst (The Secrets of the Immortal Nicholas Flamel, #1)",Michael Scott
+924,The Marriage Plot,Jeffrey Eugenides
+925,Daughter of Fortune,"Isabel Allende, Margaret Sayers Peden"
+926,Luckiest Girl Alive,Jessica Knoll
+927,"Crank (Crank, #1)",Ellen Hopkins
+928,"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater
+929,I Am Legend and Other Stories,Richard Matheson
+930,Olive Kitteridge,Elizabeth Strout
+931,"Not That Kind of Girl: A Young Woman Tells You What She's ""Learned""","Lena Dunham, Joana Avillez"
+932,Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins
+933,"Fire (Graceling Realm, #2)",Kristin Cashore
+934,Waiting for Godot,Samuel Beckett
+935,White Fang,Jack London
+936,"Wolves of the Calla (The Dark Tower, #5)","Stephen King, Bernie Wrightson"
+937,His Dark Materials (His Dark Materials #1-3),Philip Pullman
+938,"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski
+939,Reconstructing Amelia,Kimberly McCreight
+940,One Plus One,Jojo Moyes
+941,The Hours,Michael Cunningham
+942,"Wallbanger (Cocktail, #1)",Alice Clayton
+943,Holidays on Ice,David Sedaris
+944,Desperation,Stephen King
+945,"Passion (Fallen, #3)",Lauren Kate
+946,"The Kill Order (Maze Runner, #0.5)",James Dashner
+947,"Angelfall (Penryn & the End of Days, #1)",Susan Ee
+948,Empire Falls,Richard Russo
+949,"The Fires of Heaven (Wheel of Time, #5)",Robert Jordan
+950,I'll Give You the Sun,Jandy Nelson
+951,Survivor,Chuck Palahniuk
+952,"Shopaholic & Baby (Shopaholic, #5)",Sophie Kinsella
+953,"The Dark Tower (The Dark Tower, #7)",Stephen King
+955,"Shopaholic Takes Manhattan (Shopaholic, #2)",Sophie Kinsella
+956,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Richard Feynman
+957,"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater
+958,"The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)",L.M. Montgomery
+959,A Portrait of the Artist as a Young Man,"James Joyce, Seamus Deane"
+960,"The Gathering Storm (Wheel of Time, #12)","Robert Jordan, Brandon Sanderson"
+961,Middlemarch,"George Eliot, Michel Faber"
+962,"Point of Retreat (Slammed, #2)",Colleen Hoover
+963,The Partner,John Grisham
+964,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien
+965,"Thoughtless (Thoughtless, #1)",S.C. Stephens
+966,Presumed Innocent,Scott Turow
+967,The Dark Half,Stephen King
+968,Cleopatra: A Life,Stacy Schiff
+969,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman
+970,"Steelheart (The Reckoners, #1)",Brandon Sanderson
+971,The Rainbow Fish,"Marcus Pfister, J. Alison James"
+972,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",Jules Verne
+973,"The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun",Gretchen Rubin
+974,The Man in the High Castle,Philip K. Dick
+975,Helter Skelter: The True Story of the Manson Murders,"Vincent Bugliosi, Curt Gentry"
+976,"Dr. Seuss's Green Eggs and Ham: For Soprano, Boy Soprano, and Orchestra","Robert Kapilow, Dr. Seuss"
+977,Inferno (The Divine Comedy #1),"Dante Alighieri, Anthony M. Esolen"
+978,"Shadow of Night (All Souls Trilogy, #2)",Deborah Harkness
+979,Leaving Time,Jodi Picoult
+980,"Moon Called (Mercy Thompson, #1)",Patricia Briggs
+981,"Blue Bloods (Blue Bloods, #1)",Melissa de la Cruz
+982,"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr
+983,Between the World and Me,Ta-Nehisi Coates
+984,Paradise Lost,"John Milton, John      Leonard"
+985,The Big Short: Inside the Doomsday Machine,Michael   Lewis
+986,The Girl Who Loved Tom Gordon,Stephen King
+987,A Monster Calls,"Patrick Ness, Jim Kay, Siobhan Dowd"
+988,"Towers of Midnight (Wheel of Time, #13)","Robert Jordan, Brandon Sanderson"
+989,The Day of the Jackal,Frederick Forsyth
+991,Attachments,Rainbow Rowell
+992,"The Twilight Saga (Twilight, #1-4)","Stephenie Meyer, Ilyana Kadushin, Matt Walters"
+993,Tell the Wolves I'm Home,Carol Rifka Brunt
+994,"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot
+995,"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin
+996,"Three to Get Deadly (Stephanie Plum, #3)",Janet Evanovich
+997,The Scarlet Pimpernel,Emmuska Orczy
+998,The Monster at the End of this Book,"Jon Stone, Michael J. Smollin"
+999,"Tales of a Fourth Grade Nothing (Fudge, #1)",Judy Blume
+1000,"Shadow and Bone (Shadow and Bone, #1)",Leigh Bardugo
+1001,The Dinner,"Herman Koch, Sam Garrett"
+1002,"Champion (Legend, #3)",Marie Lu
+1003,Contact,Carl Sagan
+1004,"Lola and the Boy Next Door (Anna and the French Kiss, #2)",Stephanie Perkins
+1005,White Teeth,Zadie Smith
+1006,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,"Chris Kyle, Scott McEwen, Jim DeFelice"
+1007,My Horizontal Life: A Collection of One-Night Stands,Chelsea Handler
+1008,"The Power of Six (Lorien Legacies, #2)",Pittacus Lore
+1009,The Interestings,Meg Wolitzer
+1010,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+1011,People of the Book,Geraldine Brooks
+1012,The Secret Keeper,Kate Morton
+1013,Better Homes and Gardens New Cook Book  ,Better Homes and Gardens
+1014,"So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4)",Douglas Adams
+1015,Steppenwolf,"Hermann Hesse, Basil Creighton"
+1016,"The Surgeon (Rizzoli & Isles, #1)",Tess Gerritsen
+1017,The Girl You Left Behind,Jojo Moyes
+1018,"Royal Assassin (Farseer Trilogy, #2)",Robin Hobb
+1019,Childhood's End,Arthur C. Clarke
+1020,The Tale of Despereaux,"Kate DiCamillo, Timothy Basil Ering"
+1021,"Animal, Vegetable, Miracle: A Year of Food Life","Barbara Kingsolver, Steven L. Hopp, Camille Kingsolver, Richard A. Houser"
+1022,"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas
+1023,"Lord of Chaos (Wheel of Time, #6)",Robert Jordan
+1024,"The Sweetness at the Bottom of the Pie (Flavia de Luce, #1)",Alan Bradley
+1025,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller
+1026,"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon
+1027,"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan
+1028,Truly Madly Guilty,Liane Moriarty
+1029,"Saga, Vol. 1 (Saga, #1)","Brian K. Vaughan, Fiona Staples"
+1030,The Art of Fielding,Chad Harbach
+1031,A Moveable Feast,Ernest Hemingway
+1032,"Fablehaven (Fablehaven, #1)",Brandon Mull
+1033,"The Wide Window (A Series of Unfortunate Events, #3)","Lemony Snicket, Brett Helquist"
+1034,"Grave Peril (The Dresden Files, #3)",Jim Butcher
+1036,"Effortless (Thoughtless, #2)",S.C. Stephens
+1037,The Street Lawyer,John Grisham
+1038,"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor
+1039,"Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)","Seth Grahame-Smith, Jane Austen"
+1040,Let's Explore Diabetes with Owls,David Sedaris
+1041,The Idiot,"Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky"
+1042,Dirk Gently's Holistic Detective Agency (Dirk Gently #1),Douglas Adams
+1044,Why Not Me?,Mindy Kaling
+1045,"Four: A Divergent Story Collection (Divergent, #0.1 - 0.4)",Veronica Roth
+1046,Modern Romance,"Aziz Ansari, Eric Klinenberg"
+1047,The One and Only Ivan,"Katherine Applegate, Patricia Castelao"
+1048,The Perfect Storm: A True Story of Men Against the Sea,Sebastian Junger
+1049,"Elantris (Elantris, #1)",Brandon Sanderson
+1050,"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness
+1051,One Thousand White Women: The Journals of May Dodd (One Thousand White Women#1),Jim Fergus
+1052,Handle with Care,Jodi Picoult
+1053,"Song of Susannah (The Dark Tower, #6)","Stephen King, Darrel Anderson"
+1054,"Reached (Matched, #3)",Ally Condie
+1055,Midnight's Children,Salman Rushdie
+1056,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks
+1057,The Testament,John Grisham
+1058,"Murder at the Vicarage (Miss Marple, #1)",Agatha Christie
+1059,"Among the Hidden (Shadow Children, #1)",Margaret Peterson Haddix
+1060,In Defense of Food: An Eater's Manifesto,Michael Pollan
+1061,The Witch of Blackbird Pond,Elizabeth George Speare
+1062,"The Heir (The Selection, #4)",Kiera Cass
+1063,"Shopaholic Ties the Knot (Shopaholic, #3)",Sophie Kinsella
+1064,The Woman in White,"Wilkie Collins, Matthew Sweet"
+1065,"Career of Evil (Cormoran Strike, #3)","Robert Galbraith, J.K. Rowling"
+1066,"The Summer I Turned Pretty (Summer, #1)",Jenny Han
+1067,"Four to Score (Stephanie Plum, #4)",Janet Evanovich
+1068,The Color of Water: A Black Man's Tribute to His White Mother,James McBride
+1069,"SuperFreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance","Steven D. Levitt, Stephen J. Dubner"
+1070,"Darkfever (Fever, #1)",Karen Marie Moning
+1071,"Stone of Tears (Sword of Truth, #2)",Terry Goodkind
+1072,Heart of the Matter,Emily Giffin
+1073,Vanity Fair,"William Makepeace Thackeray, John Carey"
+1074,The Sirens of Titan,Kurt Vonnegut Jr.
+1076,The Nest,Cynthia D'Aprix Sweeney
+1077,"Fables, Vol. 1: Legends in Exile","Bill Willingham, Lan Medina, Steve Leialoha, Craig Hamilton, James Jean"
+1079,"The Celestine Prophecy (Celestine Prophecy, #1)",James Redfield
+1080,My Life Next Door,Huntley Fitzpatrick
+1081,Winter of the World (The Century Trilogy #2),Ken Follett
+1082,Colorless Tsukuru Tazaki and His Years of Pilgrimage,"Haruki Murakami, Philip Gabriel"
+1083,Lucky,Alice Sebold
+1084,To the Lighthouse,Virginia Woolf
+1086,"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",Laurell K. Hamilton
+1087,I Am the Messenger,Markus Zusak
+1088,Far from the Madding Crowd,"Thomas Hardy, Rosemarie Morgan, Shannon Russell"
+1089,"Equal Rites (Discworld, #3; Witches #1)",Terry Pratchett
+1090,House of Leaves,Mark Z. Danielewski
+1092,Sycamore Row,John Grisham
+1093,"Awakened (House of Night, #8)","P.C. Cast, Kristin Cast"
+1094,My Ántonia,Willa Cather
+1095,"Life As We Knew It (Last Survivors, #1)",Susan Beth Pfeffer
+1096,America (The Book): A Citizen's Guide to Democracy Inaction,"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms"
+1097,90 Minutes in Heaven: A True Story of Death and Life,"Don Piper, Cecil Murphey"
+1098,The Longest Ride,Nicholas Sparks
+1099,Tao Te Ching,"Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe"
+1100,"Kane and Abel (Kane and Abel, #1)",Jeffrey Archer
+1101,Change of Heart,Jodi Picoult
+1102,Dry,Augusten Burroughs
+1103,Sam's Letters to Jennifer,James Patterson
+1104,"Grey (Fifty Shades, #4)",E.L. James
+1105,Dune Messiah (Dune Chronicles #2),Frank Herbert
+1106,The Great Divorce,C.S. Lewis
+1107,Little Earthquakes,Jennifer Weiner
+1108,The Complete Fairy Tales,"Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter"
+1110,"Maybe Someday (Maybe, #1)",Colleen Hoover
+1111,Mr. Maybe,Jane Green
+1112,"Anne of the Island (Anne of Green Gables, #3)",L.M. Montgomery
+1113,Thus Spoke Zarathustra,"Friedrich Nietzsche, Walter Kaufmann"
+1114,North and South,"Elizabeth Gaskell, Alan Shelston"
+1115,A Stolen Life,Jaycee Dugard
+1117,"The Lost World (Jurassic Park, #2)",Michael Crichton
+1118,"Requiem (Delirium, #3)",Lauren Oliver
+1119,"A Crown of Swords (Wheel of Time, #7)",Robert Jordan
+1120,Aesop's Fables,"Aesop, Laura Harris, Laura Gibbs"
+1121,"Blood Meridian, or the Evening Redness in the West",Cormac McCarthy
+1122,"Finale (Hush, Hush, #4)",Becca Fitzpatrick
+1123,Skeleton Crew,Stephen King
+1124,Lullaby,Chuck Palahniuk
+1126,"Vampire Knight, Vol. 1 (Vampire Knight, #1)","Matsuri Hino, Tomo Kimura"
+1127,"Summer Knight (The Dresden Files, #4)",Jim Butcher
+1128,"Dragonflight (Dragonriders of Pern, #1)","Anne McCaffrey, Teodor Panasiński"
+1130,Ugly Love,Colleen Hoover
+1131,"Chocolat (Chocolat, #1)",Joanne Harris
+1132,The Amityville Horror,Jay Anson
+1133,The English Patient,Michael Ondaatje
+1134,"Gabriel's Rapture (Gabriel's Inferno, #2)",Sylvain Reynard
+1135,Dubliners,"James Joyce, Jeri Johnson"
+1136,Let the Great World Spin,Colum McCann
+1137,"The Eternity Code (Artemis Fowl, #3)",Eoin Colfer
+1138,Tell No One,Harlan Coben
+1139,The Tommyknockers,Stephen King
+1140,"Hex Hall (Hex Hall, #1)",Rachel Hawkins
+1142,Cryptonomicon,Neal Stephenson
+1143,"Beautiful Bastard (Beautiful Bastard, #1)",Christina Lauren
+1144,Prodigal Summer,Barbara Kingsolver
+1145,We Were the Mulvaneys,Joyce Carol Oates
+1147,"Beautiful Darkness (Caster Chronicles, #2)","Kami Garcia, Margaret Stohl"
+1148,The Psychopath Test: A Journey Through the Madness Industry,Jon Ronson
+1149,Vanishing Acts,Jodi Picoult
+1150,Absolute Power,David Baldacci
+1151,"Hot Six (Stephanie Plum, #6)",Janet Evanovich
+1152,The Time Keeper,Mitch Albom
+1153,"A Dirty Job (Grim Reaper, #1)",Christopher Moore
+1154,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis
+1155,"The Amulet of Samarkand (Bartimaeus, #1)",Jonathan Stroud
+1156,I Am America (And So Can You!),"Stephen Colbert, Richard Dahm, Paul Dinello, Allison Silverman, Michael Brumm, Eric Drydale, Rob Dubbin, Glenn Eichler, Peter Grosz, Peter Gwinn, Jay Katsir, Laura Krafft, Frank Lesser, Tom Purcell"
+1157,The One Minute Manager,"Kenneth H. Blanchard, Spencer Johnson"
+1158,Exodus,Leon Uris
+1159,Stones from the River,Ursula Hegi
+1160,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler
+1161,Cannery Row,John Steinbeck
+1162,Seriously... I'm Kidding,Ellen DeGeneres
+1163,"The Miserable Mill (A Series of Unfortunate Events, #4)","Lemony Snicket, Brett Helquist"
+1164,The Snow Child,Eowyn Ivey
+1165,"Wait for You (Wait for You, #1)","J. Lynn, Jennifer L. Armentrout"
+1167,The Divine Comedy,"Dante Alighieri, Allen Mandelbaum, Eugenio Montale"
+1168,The Tao of Pooh,"Benjamin Hoff, Ernest H. Shepard"
+1169,"Onyx (Lux, #2)",Jennifer L. Armentrout
+1170,"Unravel Me (Shatter Me, #2)",Tahereh Mafi
+1171,The Birth of Venus,Sarah Dunant
+1172,"The Opal Deception  (Artemis Fowl, #4)",Eoin Colfer
+1173,"The Girl in the Spider's Web (Millennium, #4)","David Lagercrantz, Stieg Larsson, George Goulding"
+1174,The Girls,Emma Cline
+1175,"The Goose Girl (The Books of Bayern, #1)",Shannon Hale
+1176,Mystic River,Dennis Lehane
+1177,"Warm Bodies (Warm Bodies, #1)",Isaac Marion
+1178,The Prince and the Pauper,"Mark Twain, Everett H. Emerson"
+1179,The Moon is a Harsh Mistress,Robert A. Heinlein
+1180,The Forty Rules of Love,"Elif Shafak, إليف شافاق, ارسلان فصیحی, محمد درويش"
+1181,"High Five (Stephanie Plum, #5)",Janet Evanovich
+1182,Joyland,Stephen King
+1184,Tender Is the Night,F. Scott Fitzgerald
+1185,Cold Sassy Tree,Olive Ann Burns
+1186,The Glass Menagerie,Tennessee Williams
+1187,My Brilliant Friend (The Neapolitan Novels #1),"Elena Ferrante, Ann Goldstein"
+1188,The 4-Hour Workweek,Timothy Ferriss
+1190,Rules of Civility,Amor Towles
+1191,"Ringworld (Ringworld, #1)",Larry Niven
+1192,Between Shades of Gray,Ruta Sepetys
+1193,Frindle,"Andrew Clements, Brian Selznick"
+1195,The Round House,Louise Erdrich
+1196,"A Wind in the Door (A Wrinkle in Time Quintet, #2)",Madeleine L'Engle
+1197,"Free Four: Tobias Tells the Divergent Knife-Throwing Scene (Divergent, #1.5)",Veronica Roth
+1198,A Little Life,Hanya Yanagihara
+1199,"Y: The Last Man, Vol. 1: Unmanned","Brian K. Vaughan, Pia Guerra, José Marzán Jr."
+1200,"The Alloy of Law (Mistborn, #4)",Brandon Sanderson
+1201,"Dead Reckoning (Sookie Stackhouse, #11)",Charlaine Harris
+1202,The Accidental Tourist,"Anne Tyler, Jennifer Bassett"
+1203,"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe, #1)",Benjamin Alire Sáenz
+1204,The Invisible Man,H.G. Wells
+1205,Hard-Boiled Wonderland and the End of the World,"Haruki Murakami, Alfred Birnbaum"
+1206,By the River Piedra I Sat Down and Wept,"Paulo Coelho, Alan R. Clarke"
+1207,The Swiss Family Robinson  ,"Johann David Wyss, Scott McKowen, Arthur Pober"
+1208,Four Past Midnight ,Stephen King
+1209,"The Marriage Bargain (Marriage to a Billionaire, #1)",Jennifer Probst
+1210,"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery
+1211,The Little Engine That Could,"Watty Piper, Doris Hauman, George Hauman"
+1212,We Are All Completely Beside Ourselves,Karen Joy Fowler
+1213,"Children of the Mind (Ender's Saga, #4)",Orson Scott Card
+1214,Ulysses,James Joyce
+1215,Someone Like You,Sarah Dessen
+1216,Moloka'i,Alan Brennert
+1217,"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice
+1218,"This Present Darkness (Darkness, #1)",Frank E. Peretti
+1219,"The Coincidence of Callie & Kayden (The Coincidence, #1)",Jessica Sorensen
+1220,Fates and Furies,Lauren Groff
+1221,Summer Sisters,Judy Blume
+1222,Stuart Little,"E.B. White, Garth Williams"
+1223,"The Foundation Trilogy (Foundation, #1-3)",Isaac Asimov
+1224,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene
+1225,"The Austere Academy (A Series of Unfortunate Events, #5)","Lemony Snicket, Brett Helquist"
+1226,"Seven Up (Stephanie Plum, #7)",Janet Evanovich
+1227,"The Awakening (Darkest Powers, #2)",Kelley Armstrong
+1228,"Death Masks (The Dresden Files, #5)",Jim Butcher
+1229,Stellaluna,Janell Cannon
+1230,Before They Are Hanged (The First Law #2),Joe Abercrombie
+1231,Loving Frank,Nancy Horan
+1232,"Hard Eight (Stephanie Plum, #8)","Janet Evanovich, Lorelei King"
+1233,"The Vile Village (A Series of Unfortunate Events, #7)","Lemony Snicket, Brett Helquist"
+1234,Sybil: The Classic True Story of a Woman Possessed by Sixteen Personalities,Flora Rheta Schreiber
+1235,Cosmos,Carl Sagan
+1236,Haunted,Chuck Palahniuk
+1237,The Shell Seekers,Rosamunde Pilcher
+1238,What Is the What,Dave Eggers
+1239,Chronicle of a Death Foretold,"Gabriel García Márquez, Gregory Rabassa"
+1240,"A Scandal in Bohemia (The Adventures of Sherlock Holmes, #1)","Ronald Holt, Arthur Conan Doyle"
+1241,Killing Lincoln: The Shocking Assassination that Changed America Forever,"Bill O'Reilly, Martin Dugard"
+1242,The Lowland,Jhumpa Lahiri
+1243,"The Ruins of Gorlan (Ranger's Apprentice, #1)",John Flanagan
+1244,Wintergirls,Laurie Halse Anderson
+1245,The Brethren,John Grisham
+1246,"Assassin's Quest (Farseer Trilogy, #3)",Robin Hobb
+1247,Rosemary's Baby,Ira Levin
+1248,"The Talisman (The Talisman, #1)","Stephen King, Peter Straub"
+1249,"The Path of Daggers (Wheel of Time, #8)",Robert Jordan
+1250,The Dharma Bums,Jack Kerouac
+1251,"The Reckoning (Darkest Powers, #3)",Kelley Armstrong
+1252,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo
+1253,"Mary Poppins (Mary Poppins, #1)","P.L. Travers, Mary Shepard"
+1254,"Red Seas Under Red Skies (Gentleman Bastard, #2)",Scott Lynch
+1255,The House on Mango Street,Sandra Cisneros
+1256,City of Thieves,David Benioff
+1257,"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost
+1258,The Twits,"Roald Dahl, Quentin Blake"
+1259,"Abhorsen (Abhorsen, #3)",Garth Nix
+1260,The Beach House,"James Patterson, Peter de Jonge"
+1261,The Eyes of the Dragon,Stephen King
+1262,Children of Dune (Dune Chronicles #3),Frank Herbert
+1263,"Leviathan Wakes (The Expanse, #1)",James S.A. Corey
+1264,"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas
+1265,"Maus II: A Survivor's Tale: And Here My Troubles Began (Maus, #2)",Art Spiegelman
+1266,The Snowy Day,Ezra Jack Keats
+1267,"To the Nines (Stephanie Plum, #9)",Janet Evanovich
+1268,Where We Belong,Emily Giffin
+1269,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston
+1270,Sputnik Sweetheart,"Haruki Murakami, Philip Gabriel"
+1271,The Signature of All Things,Elizabeth Gilbert
+1272,"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",Lynne Truss
+1273,"Dead Witch Walking (The Hollows, #1)",Kim Harrison
+1274,The Night Before Christmas,"Clement C. Moore, Jan Brett"
+1275,"An Echo in the Bone (Outlander, #7)",Diana Gabaldon
+1276,"Unearthly (Unearthly, #1)",Cynthia Hand
+1277,The Case for Christ,Lee Strobel
+1278,"Knife of Dreams (Wheel of Time, #11)",Robert Jordan
+1279,Hoot,Carl Hiaasen
+1280,The Aeneid,"Virgil, Robert Fitzgerald"
+1281,This Is How You Lose Her,Junot Díaz
+1282,After Dark,"Haruki Murakami, Jay Rubin"
+1283,Ishmael:A Novel,Daniel Quinn
+1284,"It's Not Summer Without You (Summer, #2)",Jenny Han
+1285,"Pushing the Limits (Pushing the Limits, #1)",Katie McGarry
+1286,Quidditch Through the Ages,"Kennilworthy Whisp, J.K. Rowling"
+1287,"Miss Nelson Is Missing! (Miss Nelson, #1)","Harry Allard, James  Marshall"
+1288,The Long Walk,"Richard Bachman, Stephen King"
+1289,"The Ersatz Elevator (A Series of Unfortunate Events, #6)","Lemony Snicket, Brett Helquist"
+1290,"Messenger (The Giver, #3)",Lois Lowry
+1291,"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward
+1292,'Salem's Lot,"Stephen King, Jerry N. Uelsmann"
+1293,"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)","Trenton Lee Stewart, Carson Ellis"
+1294,god is Not Great: How Religion Poisons Everything,Christopher Hitchens
+1295,"Never Too Far (Rosemary Beach, #2; Too Far, #2)",Abbi Glines
+1296,State of Fear,Michael Crichton
+1297,The Statistical Probability of Love at First Sight,Jennifer E. Smith
+1298,"The Golem's Eye (Bartimaeus, #2)",Jonathan Stroud
+1299,Still Life with Woodpecker,Tom Robbins
+1300,Those Who Save Us,Jenna Blum
+1301,The Broker,John Grisham
+1302,"Across the Universe (Across the Universe, #1)",Beth Revis
+1303,"The Road Less Traveled: A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck
+1304,"Blood Rites (The Dresden Files, #6)",Jim Butcher
+1305,"The Boxcar Children (The Boxcar Children, #1)","Gertrude Chandler Warner, L. Kate Deal"
+1306,The Silent Wife,A.S.A. Harrison
+1307,How to Be a Woman,Caitlin Moran
+1308,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas
+1309,Life,Keith Richards
+1310,Unaccustomed Earth,Jhumpa Lahiri
+1311,The Pilot's Wife,Anita Shreve
+1312,White Noise,Don DeLillo
+1313,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose
+1314,The Origin of Species,Charles Darwin
+1315,Blankets,Craig Thompson
+1316,The Story of Edgar Sawtelle,David Wroblewski
+1317,Drowning Ruth,Christina Schwarz
+1318,Post Office,Charles Bukowski
+1319,"All the Pretty Horses (The Border Trilogy, #1)",Cormac McCarthy
+1320,"The Complete Sherlock Holmes, Vol 2","Arthur Conan Doyle, Kyle Freeman"
+1322,"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle
+1323,"Magyk (Septimus Heap, #1)",Angie Sage
+1324,Fever 1793,Laurie Halse Anderson
+1325,"The Likeness (Dublin Murder Squad, #2)",Tana French
+1326,Dead Wake: The Last Crossing of the Lusitania,Erik Larson
+1327,The Jungle Book,Rudyard Kipling
+1328,"I Am Pilgrim (Pilgrim, #1)",Terry Hayes
+1329,Howl and Other Poems,"Allen Ginsberg, William Carlos Williams"
+1330,Don't Sweat the Small Stuff ... and it's all small stuff: Simple Ways to Keep the Little Things from Taking Over Your Life,Richard Carlson
+1331,Go the Fuck to Sleep,"Adam Mansbach, Ricardo Cortés"
+1332,"Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",Douglas Adams
+1334,The Tiger's Wife,Téa Obreht
+1335,"Poison Study (Study, #1)",Maria V. Snyder
+1336,"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward
+1337,"Going Postal (Discworld, #33; Moist von Lipwig, #1)",Terry Pratchett
+1338,The Book of Mormon: Another Testament of Jesus Christ,"Anonymous, Joseph Smith Jr."
+1339,The Mist,Stephen King
+1340,"Dead Beat (The Dresden Files, #7)",Jim Butcher
+1341,"Golden Son (Red Rising, #2)",Pierce Brown
+1342,"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett
+1343,"The Light Fantastic (Discworld, #2; Rincewind #2)",Terry Pratchett
+1344,What the Dog Saw and Other Adventures,Malcolm Gladwell
+1345,Pretty Girls,Karin Slaughter
+1346,"Last Argument of Kings (The First Law, #3)",Joe Abercrombie
+1347,Revival,Stephen King
+1348,Horton Hears a Who!,Dr. Seuss
+1349,The Blind Side: Evolution of a Game,Michael   Lewis
+1350,"Lirael (Abhorsen, #2)",Garth Nix
+1351,"School's Out—Forever (Maximum Ride, #2)",James Patterson
+1353,"Winter (The Lunar Chronicles, #4)",Marissa Meyer
+1354,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,"Robert Louis Stevenson, Robert Mighall"
+1356,"The Warded Man (Demon Cycle, #1)",Peter V. Brett
+1357,The Pilgrim's Progress,John Bunyan
+1358,"One Shot (Jack Reacher, #9)",Lee Child
+1359,"The Serpent's Shadow (Kane Chronicles, #3)",Rick Riordan
+1360,Duma Key,Stephen King
+1361,The House at Riverton,Kate Morton
+1362,"Winter's Heart (Wheel of Time, #9)",Robert Jordan
+1363,"Proven Guilty (The Dresden Files, #8)",Jim Butcher
+1364,"Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead","Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus"
+1365,The Heart is a Lonely Hunter,Carson McCullers
+1366,"The Infinite Sea (The 5th Wave, #2)",Rick Yancey
+1367,The Once and Future King (The Once and Future King #1-4),T.H. White
+1368,"Small Gods (Discworld, #13)",Terry Pratchett
+1369,"Bud, Not Buddy",Christopher Paul Curtis
+1370,Fun Home: A Family Tragicomic,Alison Bechdel
+1371,Predictably Irrational: The Hidden Forces That Shape Our Decisions,Dan Ariely
+1373,"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks
+1374,"A Memory of Light (Wheel of Time, #14)","Robert Jordan, Brandon Sanderson"
+1375,Me and Earl and the Dying Girl,Jesse Andrews
+1377,"Janet Evanovich Three and Four Two-Book Set (Stephanie Plum, #3-4)",Janet Evanovich
+1378,"The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary",Simon Winchester
+1379,"2nd Chance (Women's Murder Club, #2)","James Patterson, Andrew Gross"
+1380,"The Complete Maus (Maus, #1-2)",Art Spiegelman
+1381,"The Eyre Affair (Thursday Next, #1)",Jasper Fforde
+1382,Anne Rice's The Vampire Lestat: A Graphic Novel,"Faye Perozich, Anne Rice, John Bolton, Daerick Gröss"
+1383,Sideways Stories from Wayside School (Wayside School #1),"Louis Sachar, Adam McCauley"
+1384,The Art of Happiness,"Dalai Lama XIV, Howard C. Cutler"
+1385,The Bone Clocks,David Mitchell
+1386,Black and Blue,Anna Quindlen
+1388,The Last Juror,John Grisham
+1389,Diary,Chuck Palahniuk
+1390,"Eleven on Top (Stephanie Plum, #11)",Janet Evanovich
+1391,"Inkspell (Inkworld, #2)","Cornelia Funke, Anthea Bell"
+1392,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman
+1393,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,Evelyn Waugh
+1394,"White Night (The Dresden Files, #9)",Jim Butcher
+1395,The Miniaturist,Jessie Burton
+1396,"Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)","Margaret Weis, Tracy Hickman"
+1397,"The Lost Colony (Artemis Fowl, #5)",Eoin Colfer
+1398,"Extras (Uglies, #4)",Scott Westerfeld
+1399,"The Burning Bridge (Ranger's Apprentice, #2)",John Flanagan
+1400,"The Book of Life (All Souls Trilogy, #3)",Deborah Harkness
+1402,The Stinky Cheese Man and Other Fairly Stupid Tales,"Jon Scieszka, Lane Smith"
+1403,Horns,Joe Hill
+1404,Catherine the Great: Portrait of a Woman,Robert K. Massie
+1405,"The Year of the Flood  (MaddAddam, #2)",Margaret Atwood
+1406,Winter Garden,Kristin Hannah
+1407,The King of Torts,John Grisham
+1410,"The Murder of Roger Ackroyd (Hercule Poirot, #4)",Agatha Christie
+1411,Native Son,Richard Wright
+1412,"Shadow's Edge (Night Angel, #2)",Brent Weeks
+1413,"Under the Never Sky (Under the Never Sky, #1)",Veronica Rossi
+1414,"True Believer (Jeremy Marsh & Lexie Darnell, #1)",Nicholas Sparks
+1416,"The Golden Lily (Bloodlines, #2)",Richelle Mead
+1417,Chasing Harry Winston,Lauren Weisberger
+1418,"Magician's Gambit (The Belgariad, #3)",David Eddings
+1419,The Stand: Captain Trips,"Roberto Aguirre-Sacasa, Stephen King, Mike Perkins, Laura       Martin"
+1420,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer
+1421,A Long Way Down,Nick Hornby
+1423,Rose Madder,Stephen King
+1424,"Die Trying (Jack Reacher, #2)",Lee Child
+1425,"Beautiful Chaos (Caster Chronicles, #3)","Kami Garcia, Margaret Stohl, Paz Pruneda"
+1426,Keeping Faith,Jodi Picoult
+1427,Heart-Shaped Box,Joe Hill
+1429,"Beyond the Shadows (Night Angel, #3)",Brent Weeks
+1430,Everyone Worth Knowing,Lauren Weisberger
+1431,"Redwall (Redwall, #1)",Brian Jacques
+1432,The Communist Manifesto,"Karl Marx, Friedrich Engels, Gareth Stedman Jones"
+1433,The Woman in Cabin 10,Ruth Ware
+1434,The Last of the Mohicans (The Leatherstocking Tales #2),James Fenimore Cooper
+1435,Sophie's Choice,William Styron
+1436,"Shopaholic and Sister (Shopaholic, #4)",Sophie Kinsella
+1437,The Iron Daughter,Julie Kagawa
+1439,The Age of Miracles,Karen Thompson Walker
+1440,Have a Little Faith: a True Story,Mitch Albom
+1441,My Life in France,"Julia Child, Alex Prud'Homme"
+1442,"The Rosie Effect (Don Tillman, #2)",Graeme Simsion
+1444,Ham on Rye,Charles Bukowski
+1445,Flipped,Wendelin Van Draanen
+1447,Make Way for Ducklings,Robert McCloskey
+1448,"Relic (Pendergast, #1)","Douglas Preston, Lincoln Child"
+1449,Notes from a Small Island,Bill Bryson
+1450,"Small Favor (The Dresden Files, #10)",Jim Butcher
+1452,"Princess Academy (Princess Academy, #1)",Shannon Hale
+1453,"Everything, Everything","Nicola Yoon, David Yoon"
+1454,Pygmalion,George Bernard Shaw
+1455,Flight Behavior,Barbara Kingsolver
+1456,"Grip of the Shadow Plague (Fablehaven, #3)",Brandon Mull
+1457,"Bridget Jones: The Edge of Reason (Bridget Jones, #2)",Helen Fielding
+1458,Corelli's Mandolin,Louis de Bernières
+1459,"At First Sight (Jeremy Marsh & Lexie Darnell, #2)",Nicholas Sparks
+1460,In a Sunburned Country,Bill Bryson
+1461,The Memoirs of Sherlock Holmes,Arthur Conan Doyle
+1462,The Orphan Master's Son,Adam Johnson
+1463,"Enchanters' End Game (The Belgariad, #5)",David Eddings
+1464,The Complete Persepolis,"Marjane Satrapi, Mattias Ripa, Blake Ferris, Anjali Singh"
+1465,The Chosen,Chaim Potok
+1466,The Agony and the Ecstasy,"Irving Stone, שמואל שניצר"
+1467,"The Angel's Game (The Cemetery of Forgotten Books, #2)","Carlos Ruiz Zafón, Lucia Graves"
+1468,"Love, Rosie",Cecelia Ahern
+1469,Amelia Bedelia  (Amelia Bedelia #1),"Peggy Parish, Fritz Siebel"
+1470,"This Man (This Man, #1)",Jodi Ellen Malpas
+1471,"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron
+1472,"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir
+1473,"Lover Enshrined (Black Dagger Brotherhood, #6)",J.R. Ward
+1474,"The Golem and the Jinni (The Golem and the Jinni, #1)",Helene Wecker
+1476,"The Slippery Slope (A Series of Unfortunate Events, #10)","Lemony Snicket, Brett Helquist"
+1477,Bleak House,"Charles Dickens, Nicola Bradbury, Hablot Knight Browne"
+1478,"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina
+1479,"Furies of Calderon (Codex Alera, #1)",Jim Butcher
+1480,"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce
+1481,Her Fearful Symmetry,Audrey Niffenegger
+1482,The Boston Girl,Anita Diamant
+1483,"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward
+1484,"The Fall of Hyperion (Hyperion Cantos, #2)",Dan Simmons
+1485,"The Black Dahlia (L.A. Quartet, #1)",James Ellroy
+1486,"Through the Looking-Glass, and What Alice Found There","Lewis Carroll, John Tenniel, Peter Glassman"
+1487,Wild Swans: Three Daughters of China,Jung Chang
+1488,"Go, Dog. Go!",P.D. Eastman
+1489,"On the Banks of Plum Creek  (Little House, #4)","Laura Ingalls Wilder, Garth Williams"
+1490,"Finders Keepers (Bill Hodges Trilogy, #2)",Stephen King
+1491,"The Strain (The Strain Trilogy, #1)","Guillermo del Toro, Chuck Hogan"
+1492,The Complete Poems of Emily Dickinson,"Emily Dickinson, Thomas H. Johnson"
+1493,"Old Yeller (Old Yeller, #1)",Fred Gipson
+1494,Born Standing Up: A Comic's Life,Steve Martin
+1495,PostSecret: Extraordinary Confessions from Ordinary Lives (PostSecret),Frank Warren
+1496,"A Storm of Swords: Blood and Gold (A Song of Ice and Fire, #3: Part 2 of 2)",George R.R. Martin
+1497,"The Borrowers (The Borrowers, #1)","Mary Norton, Beth Krush, Joe Krush"
+1498,Hearts in Atlantis,Stephen King
+1499,Small Great Things,Jodi Picoult
+1500,"A Wild Sheep Chase (The Rat, #3)","Haruki Murakami, Alfred Birnbaum"
+1501,"The Queen's Fool (The Plantagenet and Tudor Novels, #12)",Philippa Gregory
+1502,"Days of Blood & Starlight (Daughter of Smoke & Bone, #2)",Laini Taylor
+1503,Jitterbug Perfume,Tom Robbins
+1504,"The Battle for Skandia (Ranger's Apprentice, #4)",John Flanagan
+1505,"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken
+1506,The Zahir,"Paulo Coelho, Margaret Jull Costa"
+1508,"In a Dark, Dark Wood",Ruth Ware
+1509,The House of Mirth,"Edith Wharton, Nina Bawden"
+1511,The Slow Regard of Silent Things (The Kingkiller Chronicle #2.5),"Patrick Rothfuss, Nate  Taylor"
+1512,Twelve Years a Slave,Solomon Northup
+1513,"Lover Mine (Black Dagger Brotherhood, #8)",J.R. Ward
+1514,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick
+1515,Infidel,Ayaan Hirsi Ali
+1516,The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb
+1517,"The Twelve (The Passage, #2)",Justin Cronin
+1518,One Day in the Life of Ivan Denisovich,"Aleksandr Solzhenitsyn, H.T. Willetts"
+1519,"The Diamond Age: or, A Young Lady's Illustrated Primer",Neal Stephenson
+1520,A Canticle for Leibowitz,Walter M. Miller Jr.
+1521,"Antigone (The Theban Plays, #3)","Sophocles, J.E. Thomas"
+1522,Brooklyn,Colm Tóibín
+1523,"Wither (The Chemical Garden, #1)",Lauren DeStefano
+1524,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance
+1525,"Crossroads of Twilight (Wheel of Time, #10)",Robert Jordan
+1526,The Red Badge of Courage,Stephen Crane
+1528,"Gardens of the Moon (The Malazan Book of the Fallen, #1)",Steven Erikson
+1529,The Witch Of Portobello,Paulo Coelho
+1530,"A Swiftly Tilting Planet (A Wrinkle in Time Quintet, #3)",Madeleine L'Engle
+1531,"Gregor the Overlander (Underland Chronicles, #1)",Suzanne Collins
+1532,Sing You Home,Jodi Picoult
+1533,"The Tale of the Body Thief (The Vampire Chronicles, #4)",Anne Rice
+1534,"The Camel Club (Camel Club, #1)",David Baldacci
+1535,"Saving the World and Other Extreme Sports (Maximum Ride, #3)",James Patterson
+1536,"Blood of the Fold (Sword of Truth, #3)",Terry Goodkind
+1537,"The Boleyn Inheritance (The Plantagenet and Tudor Novels, #10)",Philippa Gregory
+1538,A Spool of Blue Thread,Anne Tyler
+1539,The Underground Railroad,Colson Whitehead
+1540,"Masquerade (Blue Bloods, #2)",Melissa de la Cruz
+1541,"The Iron Queen (The Iron Fey, #3)",Julie Kagawa
+1542,"Losing It (Losing It, #1)",Cora Carmack
+1543,The Racketeer,John Grisham
+1544,Disgrace,J.M. Coetzee
+1545,"The House at Pooh Corner (Winnie-the-Pooh, #2)","A.A. Milne, Ernest H. Shepard"
+1546,"The Black Prism (Lightbringer, #1)",Brent Weeks
+1547,The Mermaid Chair,Sue Monk Kidd
+1548,"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel
+1549,"The Carnivorous Carnival (A Series of Unfortunate Events, #9)","Lemony Snicket, Brett Helquist"
+1550,"Heist Society (Heist Society, #1)",Ally Carter
+1551,Behind Closed Doors,B.A. Paris
+1552,"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara
+1553,"Circus of the Damned (Anita Blake, Vampire Hunter, #3)",Laurell K. Hamilton
+1554,"Ptolemy's Gate (Bartimaeus, #3)",Jonathan Stroud
+1555,The Island of Dr. Moreau,H.G. Wells
+1556,"Opal (Lux, #3)",Jennifer L. Armentrout
+1557,Zeitoun,Dave Eggers
+1558,Out of My Mind,Sharon M. Draper
+1559,"Rapture (Fallen, #4)",Lauren Kate
+1560,"Switched (Trylle, #1)",Amanda Hocking
+1561,Doctor Zhivago,"Boris Pasternak, Max Hayward, Manya Harari, John Bayley"
+1562,Confess,Colleen Hoover
+1563,"Pines (Wayward Pines, #1)",Blake Crouch
+1564,Disclosure,Michael Crichton
+1565,Death Comes to Pemberley,P.D. James
+1566,Ethan Frome,Edith Wharton
+1567,A Map of the World,"Jane Hamilton, Frank  Muller, C.J. Critt"
+1568,It Ends with Us,Colleen Hoover
+1569,The Gift of the Magi,"O. Henry, Lisbeth Zwerger"
+1570,The Electric Kool-Aid Acid Test,Tom Wolfe
+1571,Naked Lunch,"William S. Burroughs, James Grauerholz, Barry  Miles"
+1572,Dream Country (The Sandman #3),"Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson"
+1573,A Painted House,John Grisham
+1574,The Left Hand of Darkness,"Ursula K. Le Guin, Lech Jęczmyk"
+1575,Let It Snow: Three Holiday Romances,"John Green, Maureen Johnson, Lauren Myracle"
+1576,"Full Dark, No Stars",Stephen King
+1577,Being Mortal: Medicine and What Matters in the End,Atul Gawande
+1578,Intensity,Dean Koontz
+1579,Chelsea Chelsea Bang Bang,Chelsea Handler
+1580,A Doll's House,"Henrik Ibsen, Michael   Meyer"
+1581,Hawaii,James A. Michener
+1582,Revolutionary Road,Richard Yates
+1583,Nick & Norah's Infinite Playlist,"Rachel Cohn, David Levithan"
+1584,Rosencrantz and Guildenstern Are Dead,"Tom Stoppard, Henry Popkin"
+1585,"Forever (The Wolves of Mercy Falls, #3)",Maggie Stiefvater
+1586,The Beach,Alex Garland
+1587,Saving CeeCee Honeycutt,"Beth Hoffman, Jenna Lamia"
+1588,"Deadlocked (Sookie Stackhouse, #12)",Charlaine Harris
+1589,Everything's Eventual: 14 Dark Tales,Stephen King
+1590,"Beezus and Ramona (Ramona, #1)",Beverly Cleary
+1591,"The Farthest Shore (Earthsea Cycle, #3)",Ursula K. Le Guin
+1592,Airframe,Michael Crichton
+1593,"Magician: Apprentice (The Riftwar Saga, #1)",Raymond E. Feist
+1594,Bet Me,Jennifer Crusie
+1596,Gray Mountain,John Grisham
+1597,"The Power of One (The Power of One, #1)",Bryce Courtenay
+1598,The Maltese Falcon,Dashiell Hammett
+1599,Night Road,Kristin Hannah
+1600,"Tripwire  (Jack Reacher, #3)",Lee Child
+1602,"Changes (The Dresden Files, #12)",Jim Butcher
+1603,The Story of Ferdinand,"Munro Leaf, Robert Lawson"
+1605,Ivanhoe,Walter Scott
+1606,"Ten Big Ones (Stephanie Plum, #10)",Janet Evanovich
+1607,"The Poet (Jack McEvoy, #1; Harry Bosch Universe, #5)",Michael Connelly
+1608,"Paranormalcy (Paranormalcy, #1)",Kiersten White
+1610,The Shoemaker's Wife,Adriana Trigiani
+1611,"Rise of the Evening Star (Fablehaven, #2)",Brandon Mull
+1612,"The Next Always (Inn BoonsBoro, #1)","Nora Roberts, MacLeod Andrews"
+1613,What I Talk About When I Talk About Running,"Haruki Murakami, Philip Gabriel"
+1614,"We'll Always Have Summer (Summer, #3)",Jenny Han
+1615,Open,"Andre Agassi, J.R. Moehringer"
+1616,"Stormbreaker (Alex Rider, #1)",Anthony Horowitz
+1617,"Without Fail (Jack Reacher, #6)","Lee Child, Dick Hill"
+1620,A Scanner Darkly,Philip K. Dick
+1622,A Connecticut Yankee in King Arthur's Court,Mark Twain
+1623,Batman: The Long Halloween,"Jeph Loeb, Tim Sale, Gregory Wright, Richard Starkings"
+1624,Nausea,"Jean-Paul Sartre, Lloyd Alexander, Hayden Carruth"
+1626,"Secrets of the Dragon Sanctuary (Fablehaven, #4)",Brandon Mull
+1627,"Twelve Sharp (Stephanie Plum, #12)",Janet Evanovich
+1628,"Wool (Wool, #1)",Hugh Howey
+1629,"The Tombs of Atuan (Earthsea Cycle, #2)",Ursula K. Le Guin
+1630,"Turn Coat (The Dresden Files, #11)",Jim Butcher
+1631,The Sign of Four,"Arthur Conan Doyle, Peter Ackroyd, Ed Glinert"
+1632,The Mitten,Jan Brett
+1633,"Memnoch the Devil (The Vampire Chronicles, #5)",Anne Rice
+1634,"The Magician (The Secrets of the Immortal Nicholas Flamel, #2)",Michael Scott
+1635,"Click, Clack, Moo: Cows That Type","Doreen Cronin, Betsy Lewin"
+1636,"Iron Kissed (Mercy Thompson, #3)",Patricia Briggs
+1638,"Temple of the Winds (Sword of Truth, #4)","Terry Goodkind, Dick Hill"
+1639,The True Confessions of Charlotte Doyle,Avi
+1640,A Reliable Wife,Robert Goolrick
+1641,"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury
+1642,Song of Solomon,Toni Morrison
+1643,Red Storm Rising,Tom Clancy
+1644,Peace Like a River,Leif Enger
+1645,Rant,Chuck Palahniuk
+1646,"Shadow of the Hegemon (Ender's Shadow, #2)",Orson Scott Card
+1648,The Poky Little Puppy (A Little Golden Book),"Janette Sebring Lowrey, Gustaf Tenggren"
+1649,Tara Road,Maeve Binchy
+1650,The Call of the Wild/White Fang,Jack London
+1651,"Ignite Me (Shatter Me, #3)",Tahereh Mafi
+1652,"Cross My Heart and Hope to Spy (Gallagher Girls, #2)",Ally Carter
+1653,"Blood Bound (Mercy Thompson, #2)",Patricia Briggs
+1654,"Cold Days (The Dresden Files, #14)",Jim Butcher
+1655,"The Friday Night Knitting Club (Friday Night Knitting Club, #1)",Kate Jacobs
+1656,All Things Bright and Beautiful (All Creatures Great and Small),James Herriot
+1657,Infinite Jest,David Foster Wallace
+1658,"Tangled (Tangled, #1)",Emma Chase
+1659,The Day of the Triffids,John Wyndham
+1660,The Sisters Brothers,"Patrick deWitt, Marcelo Barbão"
+1661,Secret Daughter,Shilpi Somaya Gowda
+1662,Fantastic Mr. Fox,"Roald Dahl, Quentin Blake"
+1664,A Room of One's Own,Virginia Woolf
+1665,"Warbreaker (Warbreaker, #1)",Brandon Sanderson
+1666,Shakespeare's Sonnets,"William Shakespeare, Katherine Duncan-Jones"
+1667,What Happened to Goodbye,Sarah Dessen
+1668,"Six of Crows (Six of Crows, #1)",Leigh Bardugo
+1669,"13 Little Blue Envelopes (Little Blue Envelope, #1)",Maureen Johnson
+1670,Same Kind of Different as Me,"Ron Hall, Denver Moore, Lynn Vincent"
+1671,Carry On,Rainbow Rowell
+1672,"Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, A Man Who Would Cure the World",Tracy Kidder
+1674,"Prince of Thorns (The Broken Empire, #1)",Mark  Lawrence
+1675,The Book of Ruth,Jane Hamilton
+1676,Galápagos,Kurt Vonnegut Jr.
+1677,Next,Michael Crichton
+1678,"The House of the Scorpion (Matteo Alacran, #1)",Nancy Farmer
+1679,Leaves of Grass,Walt Whitman
+1680,"Blue Dahlia (In the Garden, #1)",Nora Roberts
+1681,Lady Chatterley's Lover,"D.H. Lawrence, Doris Lessing, Chester Brown"
+1682,"The Magician King (The Magicians, #2)",Lev Grossman
+1685,Salem Falls,Jodi Picoult
+1686,Belgarath the Sorcerer,"David Eddings, Leigh Eddings"
+1687,The Great Dune Trilogy  ,Frank Herbert
+1688,My Name Is Lucy Barton,"Elizabeth Strout, Goran Skrobonja"
+1689,"Garden Spells (Waverley Family, #1)",Sarah Addison Allen
+1690,"Ghost Story (The Dresden Files,  #13)",Jim Butcher
+1691,Narrative of the Life of Frederick Douglass,Frederick Douglass
+1692,He's Just Not That Into You: The No-Excuses Truth to Understanding Guys,"Greg Behrendt, Liz Tuccillo"
+1693,"Pawn of Prophecy (The Belgariad, #1)",David Eddings
+1694,"Lean Mean Thirteen (Stephanie Plum, #13)",Janet Evanovich
+1695,The Jungle Books,"Rudyard Kipling, Alev Lytle Croutier"
+1696,"Glass Houses (The Morganville Vampires, #1)",Rachel Caine
+1698,The Dark Tower: The Gunslinger Born,"Peter David, Robin Furth, Jae Lee, Richard Isanove, Stephen King"
+1699,The Lake House,Kate Morton
+1700,A Tale for the Time Being,Ruth Ozeki
+1701,"I Hope They Serve Beer in Hell (Tucker Max, #1)",Tucker Max
+1702,"Rule (Marked Men, #1)","Jay Crownover, Charlotte Connan de vries"
+1703,"South of the Border, West of the Sun","Haruki Murakami, Philip Gabriel"
+1704,Mother Night,Kurt Vonnegut Jr.
+1706,The Fall of the House of Usher and Other Tales ,"Edgar Allan Poe, Stephen Marlowe"
+1707,Harriet the Spy (Harriet the Spy #1),Louise Fitzhugh
+1708,The Paying Guests,Sarah Waters
+1709,"Forever Odd (Odd Thomas, #2)",Dean Koontz
+1710,At Home: A Short History of Private Life,Bill Bryson
+1711,Sushi for Beginners,Marian Keyes
+1712,"Still Life (Chief Inspector Armand Gamache, #1)",Louise Penny
+1713,"Watermelon (Walsh Family, #1)",Marian Keyes
+1714,The Kitchen God's Wife,Amy Tan
+1715,Let the Right One In,John Ajvide Lindqvist
+1716,"The Rise of Nine (Lorien Legacies, #3)",Pittacus Lore
+1717,Essential Tales and Poems,"Edgar Allan Poe, Benjamin F. Fisher"
+1718,"The Second Summer of the Sisterhood (Sisterhood, #2)",Ann Brashares
+1719,Phantoms,Dean Koontz
+1720,Amy & Roger's Epic Detour,Morgan Matson
+1722,"The Wee Free Men (Discworld, #30; Tiffany Aching, #1)",Terry Pratchett
+1723,"Written in My Own Heart's Blood (Outlander, #8)",Diana Gabaldon
+1725,Alice's Adventures in Wonderland,"Lewis Carroll, John Tenniel"
+1726,"Dragon Rider (Dragon Rider, #1)",Cornelia Funke
+1727,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams
+1728,Uprooted,Naomi Novik
+1729,Seveneves,Neal Stephenson
+1730,Armada,Ernest Cline
+1731,"The Desert Spear (Demon Cycle, #2)",Peter V. Brett
+1733,The Summons,John Grisham
+1734,Endurance: Shackleton's Incredible Voyage,Alfred Lansing
+1735,"Size 12 Is Not Fat (Heather Wells, #1)",Meg Cabot
+1736,Dark Matter,Blake Crouch
+1737,"Glass Sword (Red Queen, #2)",Victoria Aveyard
+1738,When You Reach Me,Rebecca Stead
+1739,The Bonfire of the Vanities,Tom Wolfe
+1740,In the Unlikely Event,Judy Blume
+1741,"Death on the Nile (Hercule Poirot, #17)",Agatha Christie
+1742,"Shiloh (Shiloh, #1)",Phyllis Reynolds Naylor
+1743,"Siege and Storm (Shadow and Bone, #2)",Leigh Bardugo
+1744,"The Redbreast (Harry Hole, #3)","Jo Nesbø, Don Bartlett"
+1745,"Leviathan (Leviathan, #1)",Scott Westerfeld
+1746,Hide and Seek,James Patterson
+1748,Goodnight Nobody,Jennifer Weiner
+1751,"Born in Fire (Born In Trilogy, #1)",Nora Roberts
+1752,Animal Dreams,Barbara Kingsolver
+1753,"Reason to Breathe (Breathing, #1)",Rebecca Donovan
+1755,"If Tomorrow Comes (Tracy Whitney Series, #1)",Sidney Sheldon
+1757,Pope Joan,Donna Woolfolk Cross
+1758,Birdsong,Sebastian Faulks
+1759,"Faith of the Fallen (Sword of Truth, #6)",Terry Goodkind
+1760,"Keys to the Demon Prison (Fablehaven, #5)",Brandon Mull
+1762,While I Was Gone,Sue Miller
+1763,"4th of July (Women's Murder Club, #4)","James Patterson, Maxine Paetro"
+1764,"The Time Paradox (Artemis Fowl, #6)",Eoin Colfer
+1765,Clifford the Big Red Dog,Norman Bridwell
+1766,"Bitterblue (Graceling Realm, #3)",Kristin Cashore
+1767,The Sky Is Everywhere,Jandy Nelson
+1768,"Wyrd Sisters (Discworld, #6; Witches #2)",Terry Pratchett
+1769,"Real (Real, #1)",Katy Evans
+1770,NOS4A2,Joe Hill
+1771,The Tenant of Wildfell Hall,"Anne Brontë, Stevie Davies"
+1772,"The Black Stallion (The Black Stallion, #1)","Walter Farley, Keith Ward"
+1773,"Reckless (Thoughtless, #3)",S.C. Stephens
+1774,"The Grim Grotto (A Series of Unfortunate Events, #11)","Lemony Snicket, Brett Helquist"
+1775,Strega Nona,Tomie dePaola
+1776,"Playing for Keeps (Neighbor from Hell, #1)",R.L. Mathewson
+1779,"Bitten (Women of the Otherworld, #1)",Kelley Armstrong
+1780,"Born at Midnight (Shadow Falls, #1)",C.C. Hunter
+1781,Don't Let the Pigeon Drive the Bus!,Mo Willems
+1782,"The Dream Thieves (The Raven Cycle, #2)",Maggie Stiefvater
+1783,The Portrait of a Lady,"Henry James, Patricia Crick"
+1784,The Raven,"Edgar Allan Poe, Gustave Doré"
+1785,The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman
+1786,Before the Fall,Noah Hawley
+1788,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson
+1789,Dreamland,Sarah Dessen
+1790,The Art Forger,B.A. Shapiro
+1791,"Austenland (Austenland, #1)",Shannon Hale
+1792,Half of a Yellow Sun,Chimamanda Ngozi Adichie
+1794,At the Water's Edge,Sara Gruen
+1795,The Running Man,"Richard Bachman, Stephen King"
+1796,"Gilead (Gilead, #1)",Marilynne Robinson
+1797,The Crying of Lot 49,Thomas Pynchon
+1798,"Edge of Eternity (The Century Trilogy, #3)",Ken Follett
+1799,"Demonglass (Hex Hall, #2)",Rachel Hawkins
+1801,"The Sword of Shannara (The Original Shannara Trilogy, #1)",Terry Brooks
+1802,"Hannibal (Hannibal Lecter, #3)",Thomas Harris
+1803,"The Awakening / The Struggle (The Vampire Diaries, #1-2)",L.J. Smith
+1804,Three Wishes,Liane Moriarty
+1806,Fall on Your Knees,Ann-Marie MacDonald
+1807,The Scorpio Races,Maggie Stiefvater
+1808,"Morning Star (Red Rising, #3)",Pierce Brown
+1809,"Mossflower (Redwall, #2)",Brian Jacques
+1810,Furiously Happy: A Funny Book About Horrible Things,Jenny  Lawson
+1811,"Visions of Sugar Plums (Stephanie Plum, #8.5)",Janet Evanovich
+1812,"Magician: Master (The Riftwar Saga, #2)",Raymond E. Feist
+1813,"On the Island (On the Island, #1)",Tracey Garvis-Graves
+1814,Left Neglected,Lisa Genova
+1815,Anne Frank Remembered: The Story of the Woman Who Helped to Hide the Frank Family,"Miep Gies, Alison Leslie Gold"
+1816,Redshirts,John Scalzi
+1818,"One Foot in the Grave (Night Huntress, #2)",Jeaniene Frost
+1819,The Last Anniversary,Liane Moriarty
+1820,"Hunger (Gone, #2)",Michael  Grant
+1821,"Fearless Fourteen (Stephanie Plum, #14)",Janet Evanovich
+1823,"A Bear Called Paddington (Paddington, #1)","Michael Bond, Peggy Fortnum"
+1825,"Ramona Quimby, Age 8 (Ramona, #6)",Beverly Cleary
+1826,The General's Daughter,Nelson DeMille
+1827,"The Hostile Hospital (A Series of Unfortunate Events, #8)","Lemony Snicket, Brett Helquist"
+1829,The Omen,David Seltzer
+1830,"Blue Moon (The Immortals, #2)",Alyson Noel
+1831,"The Innocent (Will Robie, #1)",David Baldacci
+1832,"Child 44 (Leo Demidov, #1)",Tom Rob Smith
+1833,"These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories (Sarah Agnes Prine, #1)",Nancy E. Turner
+1834,The Hypnotist's Love Story,Liane Moriarty
+1836,The Kissing Hand,"Audrey Penn, Ruth E. Harper, Nancy M. Leak"
+1837,"Shift (Silo, #2)",Hugh Howey
+1838,"Worth Dying For (Jack Reacher, #15)",Lee Child
+1839,Look Me in the Eye: My Life with Asperger's,John Elder Robison
+1840,Fantasy Lover (Dark-Hunterverse #1),Sherrilyn Kenyon
+1841,Sundays at Tiffany's,"James Patterson, Gabrielle Charbonnet"
+1842,Perfect Match,Jodi Picoult
+1843,Prep,Curtis Sittenfeld
+1847,Illusions: The Adventures of a Reluctant Messiah,Richard Bach
+1848,"Soulless (Parasol Protectorate, #1)",Gail Carriger
+1849,"Just One Day (Just One Day, #1)",Gayle Forman
+1850,"Wake (Wake, #1)",Lisa McMann
+1851,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee
+1853,Memories of My Melancholy Whores,"Gabriel García Márquez, Edith Grossman"
+1854,"Only Time Will Tell (The Clifton Chronicles, #1)",Jeffrey Archer
+1856,Magical Thinking: True Stories,Augusten Burroughs
+1857,"In the Hand of the Goddess (Song of the Lioness, #2)",Tamora Pierce
+1858,"3rd Degree (Women's Murder Club, #3)","James Patterson, Andrew Gross"
+1859,Bird by Bird: Some Instructions on Writing and Life,Anne Lamott
+1860,"Ruby Red (Precious Stone Trilogy, #1)","Kerstin Gier, Anthea Bell"
+1861,"Shadowland (The Immortals, #3)",Alyson Noel
+1862,Heir to the Empire (Star Wars: The Thrawn Trilogy #1),Timothy Zahn
+1863,"Lioness Rampant (Song of the Lioness, #4)",Tamora Pierce
+1864,"Outbreak (Dr. Marissa Blumenthal, #1)",Robin Cook
+1866,The Vacationers,Emma Straub
+1867,"The Hangman's Daughter (The Hangman's Daughter, #1)","Oliver Pötzsch, Lee Chadeayne"
+1868,I Am Legend,Richard Matheson
+1869,"Dealing with Dragons (Enchanted Forest Chronicles, #1)","Patricia C. Wrede, Peter de Sève"
+1870,"Running Blind (Jack Reacher, #4)",Lee Child
+1871,"Rules of Prey (Lucas Davenport, #1)",John Sandford
+1872,"Ashes to Ashes (Kovac and Liska, #1)",Tami Hoag
+1873,The Yiddish Policemen's Union,Michael Chabon
+1874,The Aviator's Wife,Melanie Benjamin
+1875,A Bad Case of Stripes,David Shannon
+1876,"The Affair (Jack Reacher, #16)",Lee Child
+1877,The Elements of Style,"William Strunk Jr., E.B. White"
+1878,The Turn of the Screw,Henry James
+1879,Best Friends Forever,Jennifer Weiner
+1880,"Homeland (Forgotten Realms: The Dark Elf Trilogy, #1; Legend of Drizzt, #1)",R.A. Salvatore
+1881,The Mote in God's Eye,"Larry Niven, Jerry Pournelle"
+1882,"The Snowman (Harry Hole, #7)","Jo Nesbø, Don Bartlett"
+1884,Wicked: The Grimmerie,"David Cote, Stephen Schwartz, Joan Marcus, Winnie Holzman"
+1885,As You Like It,William Shakespeare
+1886,"Preacher, Volume 1: Gone to Texas","Garth Ennis, Steve Dillon, Joe R. Lansdale"
+1887,Cyrano de Bergerac,"Edmond Rostand, Eteel Lawson, Lowell Bair"
+1888,"The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",Anne Fadiman
+1889,"Bone Crossed (Mercy Thompson, #4)",Patricia Briggs
+1890,"The Indigo Spell (Bloodlines, #3)",Richelle Mead
+1891,"Dreamfever (Fever, #4)",Karen Marie Moning
+1892,Case Histories (Jackson Brodie #1),Kate Atkinson
+1894,Wedding Night,Sophie Kinsella
+1895,The Doll's House (The Sandman #2),"Neil Gaiman, Steve Parkhouse, Chris Bachalo, Michael Zulli, Mike Dringenberg, Malcolm Jones III, Todd Klein, Clive Barker"
+1896,"Pollyanna (Pollyanna, #1)",Eleanor H. Porter
+1898,"Dust (Silo, #3)",Hugh Howey
+1899,Lone Wolf,Jodi Picoult
+1900,Nightmares and Dreamscapes,Stephen King
+1901,"Shadowfever (Fever, #5)",Karen Marie Moning
+1902,The Associate,John Grisham
+1903,"Son (The Giver, #4)",Lois Lowry
+1905,"Blood Song (Raven's Shadow, #1)",Anthony  Ryan
+1906,"Rules of Attraction (Perfect Chemistry, #2)",Simone Elkeles
+1907,The Merry Adventures of Robin Hood,Howard Pyle
+1908,Less Than Zero,Bret Easton Ellis
+1909,Someone Knows My Name,Lawrence Hill
+1910,The Arabian Nights,"Anonymous, Richard Francis Burton, A.S. Byatt"
+1911,"Faithful Place (Dublin Murder Squad, #3)",Tana French
+1912,Euphoria,Lily King
+1914,The Caves of Steel (Robot #1),Isaac Asimov
+1915,"Dance Dance Dance (The Rat, #4)",Haruki Murakami
+1916,"The Mouse and the Motorcycle (Ralph S. Mouse, #1)","Beverly Cleary, Louis Darling, Tracy Dockray"
+1917,"The Forest of Hands and Teeth (The Forest of Hands and Teeth, #1)",Carrie Ryan
+1918,"The Elfstones of Shannara  (The Original Shannara Trilogy, #2)",Terry Brooks
+1920,The Luminaries,Eleanor Catton
+1921,If You Give a Moose a Muffin,"Laura Joffe Numeroff, Felicia Bond"
+1922,Velocity,Dean Koontz
+1923,Barrel Fever: Stories and Essays,David Sedaris
+1924,"Reaper Man (Discworld, #11; Death, #2)",Terry Pratchett
+1927,Alive: The Story of the Andes Survivors,Piers Paul Read
+1928,On Beauty,Zadie Smith
+1930,"Dance Upon the Air (Three Sisters Island, #1)",Nora Roberts
+1931,"Castle of Wizardry (The Belgariad, #4)",David Eddings
+1932,"Lover Unleashed (Black Dagger Brotherhood, #9)",J.R. Ward
+1934,"Heat Wave (Nikki Heat, #1)",Richard Castle
+1936,A Widow for One Year,John Irving
+1937,"Out of the Silent Planet (Space Trilogy, #1)",C.S. Lewis
+1938,"Charlie and the Great Glass Elevator (Charlie Bucket, #2)","Roald Dahl, Quentin Blake"
+1939,If You Give a Pig a Pancake ,"Laura Joffe Numeroff, Felicia Bond"
+1940,The Wasp Factory,Iain Banks
+1941,Night Film,Marisha Pessl
+1943,Crazy Rich Asians (Crazy Rich Asians #1),Kevin Kwan
+1944,"Rebel Angels (Gemma Doyle, #2)",Libba Bray
+1945,"Bloodfever (Fever, #2)",Karen Marie Moning
+1946,"Faefever (Fever, #3)",Karen Marie Moning
+1948,"Library of Souls (Miss Peregrine's Peculiar Children, #3)",Ransom Riggs
+1949,Howards End,E.M. Forster
+1951,"The Evolution of Mara Dyer (Mara Dyer, #2)",Michelle Hodkin
+1952,"The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",Rick Riordan
+1953,"The Man in the Iron Mask (The D'Artagnan Romances, #3.3)","Alexandre Dumas, Francine du Plessix Gray, Joachim Neugroschel"
+1954,The Haunting of Hill House,"Shirley Jackson, Laura   Miller"
+1956,"Little Town on the Prairie  (Little House, #7)","Laura Ingalls Wilder, Garth Williams"
+1957,I Capture the Castle,Dodie Smith
+1958,"Destined (House of Night, #9)","P.C. Cast, Kristin Cast"
+1959,"Finger Lickin' Fifteen (Stephanie Plum, #15)",Janet Evanovich
+1961,"North and South (North and South, #1)",John Jakes
+1962,"Silver Borne (Mercy Thompson, #5)",Patricia Briggs
+1963,"The Bourne Ultimatum (Jason Bourne, #3)",Robert Ludlum
+1964,"Fool's Errand (Tawny Man, #1)",Robin Hobb
+1965,"The Young Elites (The Young Elites, #1)",Marie Lu
+1966,"Jewels of the Sun (Gallaghers of Ardmore, #1)",Nora Roberts
+1968,"Peter and the Starcatchers (Peter and the Starcatchers, #1)","Dave Barry, Ridley Pearson, Greg Call"
+1969,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond
+1970,Possession,A.S. Byatt
+1971,"Revelations (Blue Bloods, #3)",Melissa de la Cruz
+1972,"Without Remorse (Jack Ryan Universe, #1)",Tom Clancy
+1974,Ghost Story,Peter Straub
+1975,"The Penultimate Peril (A Series of Unfortunate Events, #12)","Lemony Snicket, Brett Helquist"
+1976,I'm a Stranger Here Myself: Notes on Returning to America after Twenty Years Away,Bill Bryson
+1977,"The End (A Series of Unfortunate Events, #13)","Lemony Snicket, Brett Helquist"
+1978,The Liars' Club,Mary Karr
+1979,"Dead Ever After (Sookie Stackhouse, #13)",Charlaine Harris
+1980,The Illustrated Man,Ray Bradbury
+1982,"Annihilation (Southern Reach, #1)",Jeff VanderMeer
+1983,"Breathe (Sea Breeze, #1)",Abbi Glines
+1984,The Runaway Bunny,"Margaret Wise Brown, Clement Hurd"
+1986,The Innocent Man: Murder and Injustice in a Small Town,John Grisham
+1987,The Bachman Books,"Richard Bachman, Stephen King"
+1989,"Soul of the Fire (Sword of Truth, #5)",Terry Goodkind
+1990,The Art of Hearing Heartbeats,"Jan-Philipp Sendker, Kevin Wiliarty"
+1991,"Consider Phlebas (Culture, #1)",Iain M. Banks
+1993,"The Vampire Armand (The Vampire Chronicles, #6)",Anne Rice
+1994,"Forever Too Far (Rosemary Beach, #3; Too Far, #3)",Abbi Glines
+1996,Pinocchio,"Carlo Collodi, John Boyne, Monteiro Lobato, Unknown"
+1997,"Grave Mercy (His Fair Assassin, #1)",Robin LaFevers
+1999,Tropic of Cancer,Henry Miller
+2000,The Hour I First Believed,Wally Lamb
+2002,The Death of Ivan Ilych,"Leo Tolstoy, Aylmer Maude"
+2003,Circling the Sun,Paula McLain
+2004,Travels with Charley: In Search of America,John Steinbeck
+2005,The Dovekeepers,Alice Hoffman
+2006,"The Republic of Thieves (Gentleman Bastard, #3)",Scott Lynch
+2007,The Thief Lord,Cornelia Funke
+2008,"World After (Penryn & the End of Days, #2)",Susan Ee
+2009,"Brother Odd (Odd Thomas, #3)",Dean Koontz
+2010,Black Like Me,John Howard Griffin
+2011,Snuff,Chuck Palahniuk
+2012,"Jack & Jill (Alex Cross, #3)",James Patterson
+2013,Saturday,Ian McEwan
+2014,"When the Bough Breaks (Alex Delaware, #1)",Jonathan Kellerman
+2015,The Bridges of Madison County,Robert James Waller
+2016,"Gone Tomorrow (Jack Reacher, #13)",Lee Child
+2017,"The Sorceress (The Secrets of the Immortal Nicholas Flamel, #3)",Michael Scott
+2018,"Bring Up the Bodies (Thomas Cromwell, #2)",Hilary Mantel
+2019,"The Maze of Bones  (The 39 Clues, #1)",Rick Riordan
+2023,"Forrest Gump (Forrest Gump, #1)",Winston Groom
+2024,The Fall,"Albert Camus, Justin O'Brien"
+2025,Even Cowgirls Get the Blues,Tom Robbins
+2026,The Moonstone,"Wilkie Collins, Carolyn G. Heilbrun"
+2027,If on a Winter's Night a Traveler,"Italo Calvino, William Weaver"
+2028,"Son of a Witch (The Wicked Years, #2)","Gregory Maguire, Douglas Smith"
+2029,On Chesil Beach,Ian McEwan
+2030,"M is for Malice (Kinsey Millhone, #13)",Sue Grafton
+2031,"Point of Origin (Kay Scarpetta, #9)",Patricia Cornwell
+2032,"Sarah, Plain and Tall (Sarah, Plain and Tall, #1)",Patricia MacLachlan
+2034,"Bloodsucking Fiends (A Love Story, #1)",Christopher Moore
+2035,Squirrel Seeks Chipmunk: A Modest Bestiary,"David Sedaris, Ian Falconer"
+2037,Commonwealth,Ann Patchett
+2038,"The Van Alen Legacy (Blue Bloods, #4)",Melissa de la Cruz
+2039,Blueberries for Sal,Robert McCloskey
+2040,"Losing Hope (Hopeless, #2)",Colleen Hoover
+2041,Lisey's Story,Stephen King
+2043,"Men at Arms (Discworld, #15; City Watch #2)",Terry Pratchett
+2044,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,A.J. Jacobs
+2045,God Emperor of Dune (Dune Chronicles #4),Frank Herbert
+2046,The One & Only,Emily Giffin
+2047,"The Valley of Horses (Earth's Children, #2)",Jean M. Auel
+2048,Six Years,Harlan Coben
+2049,"Ramona the Pest (Ramona, #2)",Beverly Cleary
+2051,Geek Love,Katherine Dunn
+2052,"The Oedipus Cycle: Oedipus Rex/Oedipus at Colonus/Antigone (The Theban Plays, #1–3)","Sophocles, Dudley Fitts, Elena Bono, Robert Fitzgerald"
+2053,All the King's Men,Robert Penn Warren
+2054,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)",Ann Brashares
+2055,The Woods,Harlan Coben
+2056,"New Spring (Wheel of Time, #0)",Robert Jordan
+2057,The Litigators,John Grisham
+2058,My Grandmother Asked Me to Tell You She's Sorry,"Fredrik Backman, Henning Koch"
+2059,"American Assassin (Mitch Rapp, #1)",Vince Flynn
+2061,Burial Rites,Hannah Kent
+2062,Fingersmith,Sarah Waters
+2063,A Year in Provence,Peter Mayle
+2064,The Miraculous Journey of Edward Tulane,"Kate DiCamillo, Bagram Ibatoulline"
+2065,The Last Letter from Your Lover,Jojo Moyes
+2066,"Gorky Park (Arkady Renko, #1)",Martin Cruz Smith
+2067,The House Girl,Tara Conklin
+2068,Out of the Dust,Karen Hesse
+2071,"Code Name Verity (Code Name Verity, #1)",Elizabeth Wein
+2074,"The Body Farm (Kay Scarpetta, #5)",Patricia Cornwell
+2076,The Epic of Gilgamesh,"Anonymous, N.K. Sandars"
+2077,"The Luxe (Luxe, #1)",Anna Godbersen
+2078,The Complete Tales,Beatrix Potter
+2079,"American Pastoral (The American Trilogy, #1)",Philip Roth
+2081,"Skin Game (The Dresden Files, #15)",Jim Butcher
+2084,Anathem,Neal Stephenson
+2085,The Lacuna,Barbara Kingsolver
+2086,"Hogfather (Discworld, #20; Death, #4)",Terry Pratchett
+2087,Open House,Elizabeth Berg
+2088,The Silver Star,Jeannette Walls
+2089,The Hotel New Hampshire,John Irving
+2090,"The Laughing Corpse (Anita Blake, Vampire Hunter, #2)",Laurell K. Hamilton
+2091,"Key of Light (Key Trilogy, #1)",Nora Roberts
+2093,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King"
+2094,"Smokin' Seventeen (Stephanie Plum, #17)","Janet Evanovich, Lorelei King"
+2095,The Sneetches and Other Stories,Dr. Seuss
+2096,"Polar Bear, Polar Bear, What Do You Hear?","Bill Martin Jr., Eric Carle"
+2098,"God Bless You, Mr. Rosewater",Kurt Vonnegut Jr.
+2101,"The Harry Potter Collection 1-4 (Harry Potter, #1-4)","J.K. Rowling, Mary GrandPré"
+2102,The Windup Girl,Paolo Bacigalupi
+2103,The Importance of Being Earnest and Other Plays,"Oscar Wilde, Richard Allen Cave"
+2104,"Isla and the Happily Ever After (Anna and the French Kiss, #3)",Stephanie Perkins
+2105,"Magic Bites (Kate Daniels, #1)",Ilona Andrews
+2107,Suite Française,"Irène Némirovsky, Sandra Smith"
+2109,"Sourcery (Discworld, #5; Rincewind #3)",Terry Pratchett
+2112,"P.S. I Still Love You (To All the Boys I've Loved Before, #2)",Jenny Han
+2113,"Memory Man (Amos Decker, #1)",David Baldacci
+2114,Mudbound,Hillary Jordan
+2115,Black Hawk Down,Mark Bowden
+2116,"A Darker Shade of Magic (Shades of Magic, #1)","V.E. Schwab, Victoria Schwab"
+2117,The Lost City of Z: A Tale of Deadly Obsession in the Amazon,David Grann
+2118,"Firefight (The Reckoners, #2)",Brandon Sanderson
+2120,"The Necromancer  (The Secrets of the Immortal Nicholas Flamel, #4)",Michael Scott
+2121,"61 Hours (Jack Reacher, #14)",Lee Child
+2123,George's Marvellous Medicine,"Roald Dahl, Quentin Blake"
+2124,A Thousand Acres,Jane Smiley
+2125,"The Book of Three (The Chronicles of Prydain, #1)",Lloyd Alexander
+2126,"Cry Wolf (Alpha & Omega, #1)",Patricia Briggs
+2127,Olivia,Ian Falconer
+2128,"Plainsong (Plainsong, #1)",Kent Haruf
+2129,Ghost World,Daniel Clowes
+2130,"Torn (Trylle, #2)",Amanda Hocking
+2131,Fathers and Sons,"Ivan Turgenev, George Reavy, Jane Costlow"
+2133,Caleb's Crossing,Geraldine Brooks
+2134,"Evernight (Evernight, #1)",Claudia Gray
+2135,"Bad Luck and Trouble (Jack Reacher, #11)",Lee Child
+2136,The Jane Austen Book Club,Karen Joy Fowler
+2137,The Children Act,Ian McEwan
+2138,"Sizzling Sixteen (Stephanie Plum, #16)",Janet Evanovich
+2140,"Caliban's War (The Expanse, #2)",James S.A. Corey
+2141,"Barely Breathing (Breathing, #2)",Rebecca Donovan
+2142,The Iliad/The Odyssey,"Homer, Robert Fagles, Bernard Knox"
+2144,Papillon,Henri Charrière
+2147,The 19th Wife,David Ebershoff
+2150,"Body of Evidence (Kay Scarpetta, #2)",Patricia Cornwell
+2153,"The Secret of Ella and Micha (The Secret, #1)",Jessica Sorensen
+2154,"Hounded (The Iron Druid Chronicles, #1)",Kevin Hearne
+2155,From a Buick 8,Stephen King
+2156,"Red Mars (Mars Trilogy, #1)",Kim Stanley Robinson
+2157,The Yellow Wall-Paper,"Charlotte Perkins Gilman, Elaine Hedges"
+2158,The Time Machine/The Invisible Man,"H.G. Wells, Alfred MacAdam"
+2159,"Sea Swept (Chesapeake Bay Saga, #1)",Nora Roberts
+2160,"The Blinding Knife (Lightbringer, #2)",Brent Weeks
+2163,What to Expect When You're Expecting,"Heidi Murkoff, Arlene Eisenberg, Sandee Hathaway"
+2167,"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas
+2168,"A Christmas Carol, The Chimes and The Cricket on the Hearth","Charles Dickens, Katharine Kroeber Wiley"
+2169,The Grownup,Gillian Flynn
+2170,Smoke and Mirrors: Short Fiction and Illusions,Neil Gaiman
+2172,Welcome to the Monkey House,Kurt Vonnegut Jr.
+2173,Dad Is Fat,Jim Gaffigan
+2176,The Cat in the Hat and Other Dr. Seuss Favorites,"Dr. Seuss, Various"
+2177,Dead Souls,"Nikolai Gogol, Robert A. Maguire"
+2178,"The Deal (Off-Campus, #1)",Elle Kennedy
+2179,"The Crown (The Selection, #5)",Kiera Cass
+2180,"Zero Day (John Puller, #1)",David Baldacci
+2181,Tikki Tikki Tembo,"Arlene Mosel, Blair Lent"
+2183,"Love Unscripted (Love, #1)",Tina Reber
+2184,"Pop Goes the Weasel (Alex Cross, #5)",James Patterson
+2185,"Bully (Fall Away, #1)",Penelope Douglas
+2188,Pigs in Heaven,Barbara Kingsolver
+2189,"The Ghost Brigades (Old Man's War, #2)",John Scalzi
+2190,"Cry, the Beloved Country",Alan Paton
+2192,Confessions of an Ugly Stepsister,Gregory Maguire
+2193,How to Be Good,Nick Hornby
+2194,"Lady Midnight (The Dark Artifices, #1)",Cassandra Clare
+2195,"Inkdeath (Inkworld, #3)",Cornelia Funke
+2196,Foundation's Edge (Foundation #4),Isaac Asimov
+2197,Jude the Obscure,Thomas Hardy
+2198,"Queen of Sorcery (The Belgariad, #2)",David Eddings
+2199,The Lottery and Other Stories,Shirley Jackson
+2201,"Wings (Wings, #1)",Aprilynne Pike
+2203,The Odessa File,Frederick Forsyth
+2204,The Burgess Boys,Elizabeth Strout
+2207,"Broken Harbour (Dublin Murder Squad, #4)",Tana French
+2209,The Complete Works,William Shakespeare
+2210,The Dispossessed,Ursula K. Le Guin
+2211,"Faceless Killers (Kurt Wallander, #1)","Henning Mankell, Steven T. Murray"
+2212,The Confession,John Grisham
+2213,Lightning,Dean Koontz
+2214,"Cat and Mouse (Alex Cross, #4)","James Patterson, Keith David, Anthony Heald"
+2215,"Superfudge (Fudge, #3)",Judy Blume
+2218,Ancillary Justice (Imperial Radch #1),Ann Leckie
+2219,"The Pillars of Creation (Sword of Truth, #7)",Terry Goodkind
+2221,The Life We Bury,Allen Eskens
+2223,"The Eagle Has Landed (Liam Devlin, #1)",Jack Higgins
+2224,"The Lunatic Cafe (Anita Blake, Vampire Hunter #4)",Laurell K. Hamilton
+2225,"John Dies at the End (John Dies at the End, #1)",David Wong
+2229,Prozac Nation,Elizabeth Wurtzel
+2230,The Black Cauldron (The Chronicles of Prydain #2),Lloyd Alexander
+2234,Still Life with Bread Crumbs,Anna Quindlen
+2235,"The A.B.C. Murders (Hercule Poirot, #13)",Agatha Christie
+2237,"Lover Reborn (Black Dagger Brotherhood, #10)",J.R. Ward
+2240,A Raisin in the Sun,Lorraine Hansberry
+2241,"Altered Carbon (Takeshi Kovacs, #1)",Richard K. Morgan
+2242,"The Sum of All Fears (Jack Ryan Universe, #7)",Tom Clancy
+2244,"Saga, Vol. 2 (Saga, #2)","Brian K. Vaughan, Fiona Staples"
+2245,"The Enemy (Jack Reacher, #8)",Lee Child
+2247,The Diving Bell and the Butterfly,"Jean-Dominique Bauby, Jeremy Leggatt"
+2250,The Life and Times of the Thunderbolt Kid,Bill Bryson
+2251,Still Missing,Chevy Stevens
+2252,"'Tis (Frank McCourt, #2)",Frank McCourt
+2254,"Fairest (The Lunar Chronicles, #3.5)",Marissa Meyer
+2257,Who's Afraid of Virginia Woolf?,Edward Albee
+2259,Foucault's Pendulum,"Umberto Eco, William Weaver"
+2260,A Pocket for Corduroy,Don Freeman
+2261,"The 5th Horseman (Women's Murder Club, #5)","James Patterson, Maxine Paetro"
+2262,"Kushiel's Dart (Phèdre's Trilogy, #1)",Jacqueline Carey
+2264,"Explosive Eighteen (Stephanie Plum, #18)",Janet Evanovich
+2267,"The Iron Knight (The Iron Fey, #4)",Julie Kagawa
+2268,"Maisie Dobbs (Maisie Dobbs, #1)",Jacqueline Winspear
+2269,"Magician (The Riftwar Saga, #1-2)",Raymond E. Feist
+2270,"Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood, #4)",Ann Brashares
+2271,"Feet of Clay (Discworld, #19; City Watch, #3)",Terry Pratchett
+2274,Skinny Legs and All,Tom Robbins
+2275,"Destined for an Early Grave (Night Huntress, #4)",Jeaniene Frost
+2276,"In Flight (Up in the Air, #1)",R.K. Lilley
+2277,"Cross (Alex Cross, #12)",James Patterson
+2278,"All-American Girl (All-American Girl, #1)",Meg Cabot
+2279,Neither Here nor There: Travels in Europe,Bill Bryson
+2281,We Are Water,Wally Lamb
+2282,"Max (Maximum Ride, #5)",James Patterson
+2284,The Inheritance of Loss,Kiran Desai
+2285,"A Darkness At Sethanon (The Riftwar Saga, #4)",Raymond E. Feist
+2287,"At Grave's End (Night Huntress, #3)",Jeaniene Frost
+2288,Don't Let's Go to the Dogs Tonight,Alexandra Fuller
+2289,Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley
+2291,"Flyte (Septimus Heap, #2)","Angie Sage, Mark Zug"
+2293,"The Girl of Fire and Thorns (Fire and Thorns, #1)",Rae Carson
+2294,"Enclave (Razorland, #1)",Ann Aguirre
+2295,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time,"Dava Sobel, Neil Armstrong"
+2296,"Unnatural Exposure (Kay Scarpetta, #8)",Patricia Cornwell
+2297,Faust: First Part,"Johann Wolfgang von Goethe, Peter Salm"
+2298,Lies My Teacher Told Me,James W. Loewen
+2299,"Fool's Fate (Tawny Man, #3)",Robin Hobb
+2301,"The Ask and the Answer (Chaos Walking, #2)",Patrick Ness
+2302,Scarlett,Alexandra Ripley
+2303,"Bloody Bones (Anita Blake, Vampire Hunter #5)",Laurell K. Hamilton
+2304,This Side of Paradise,F. Scott Fitzgerald
+2306,"Every Which Way But Dead (The Hollows, #3)",Kim Harrison
+2307,"Eligible: A Modern Retelling of Pride and Prejudice (The Austen Project, #4)",Curtis Sittenfeld
+2311,Mr. Popper's Penguins,"Richard Atwater, Florence Atwater, Robert Lawson"
+2312,"Shadow Puppets (Ender's Shadow, #3)",Orson Scott Card
+2313,"The Magician's Land (The Magicians, #3)",Lev Grossman
+2314,Light in August,William Faulkner
+2315,The Trumpet of the Swan,"E.B. White, Fred Marcellino"
+2316,Tenth of December,George Saunders
+2317,"Night Pleasures (Dark-Hunter, #1)",Sherrilyn Kenyon
+2321,The Lost Continent: Travels in Small Town America,Bill Bryson
+2322,Dreams of Joy (Shanghai Girls #2),Lisa See
+2324,"By the Shores of Silver Lake  (Little House, #5)","Laura Ingalls Wilder, Garth Williams"
+2325,"The Player of Games (Culture, #2)",Iain M. Banks
+2326,The Cricket in Times Square,"George Selden, Garth Williams"
+2331,November 9,Colleen Hoover
+2333,"The Mighty Storm (The Storm, #1)",Samantha Towle
+2335,The Girl with the Lower Back Tattoo,Amy Schumer
+2339,"Raise High the Roof Beam, Carpenters & Seymour: An Introduction",J.D. Salinger
+2341,"The Killing Dance (Anita Blake, Vampire Hunter, #6)",Laurell K. Hamilton
+2342,Beyond Good and Evil,"Friedrich Nietzsche, R.J. Hollingdale, Michael Tanner"
+2346,Columbine,Dave Cullen
+2347,"Lasher (Lives of the Mayfair Witches, #2)",Anne Rice
+2350,The Chaperone,Laura Moriarty
+2351,"All That Remains (Kay Scarpetta, #3)",Patricia Cornwell
+2352,The Regulators,"Richard Bachman, Stephen King"
+2353,Season of Mists (The Sandman #4),"Neil Gaiman, Matt Wagner, George Pratt, Dick Giordano, Kelley Jones, P. Craig Russell, Mike Dringenberg, Malcolm Jones III, Todd Klein, Harlan Ellison"
+2354,Judge & Jury,"James Patterson, Andrew Gross"
+2355,Silas Marner,George Eliot
+2356,"Origin (Lux, #4)",Jennifer L. Armentrout
+2357,The Botany of Desire: A Plant's-Eye View of the World,Michael Pollan
+2358,"Beautiful Redemption (Caster Chronicles, #4)","Kami Garcia, Margaret Stohl"
+2359,The Distant Hours,Kate Morton
+2361,"Kidnapped (David Balfour, #1)",Robert Louis Stevenson
+2364,"The Vincent Boys (The Vincent Boys, #1)",Abbi Glines
+2365,The Cask of Amontillado,Edgar Allan Poe
+2366,Metamorphoses,"Ovid, David Raeburn, Denis Feeney"
+2367,In the Time of the Butterflies,Julia Alvarez
+2368,Gap Creek,Robert Morgan
+2369,"Half-Blood (Covenant, #1)",Jennifer L. Armentrout
+2370,The Legend of Sleepy Hollow (Graphic Novel),"Bo Hampton, Tracey Hampton, Washington Irving"
+2374,Angle of Repose,Wallace Stegner
+2375,"Tinker, Tailor, Soldier, Spy",John le Carré
+2376,"Lord Brocktree (Redwall, #13)",Brian Jacques
+2377,"Through the Ever Night (Under the Never Sky, #2)",Veronica Rossi
+2380,Cat on a Hot Tin Roof,Tennessee Williams
+2381,"The Final Warning (Maximum Ride, #4)",James Patterson
+2382,"Golden Fool (Tawny Man, #2)",Robin Hobb
+2383,"Split Second (Sean King & Michelle Maxwell, #1)",David Baldacci
+2384,"The Fifth Witness (Mickey Haller, #5; Harry Bosch Universe, #20)",Michael Connelly
+2385,"The Dragonbone Chair (Memory, Sorrow, and Thorn, #1)",Tad Williams
+2387,"At Home in Mitford (Mitford Years, #1)",Jan Karon
+2390,"The Queen of the Tearling (The Queen of the Tearling, #1)",Erika Johansen
+2392,"Tithe (Modern Faerie Tales, #1)",Holly Black
+2393,"Echo Burning (Jack Reacher, #5)",Lee Child
+2395,"Never Never (Never Never, #1)","Colleen Hoover, Tarryn Fisher"
+2397,The Further Adventures of Sherlock Holmes: After Sir Arthur Conan Doyle (Classic Crime),"Richard Lancelyn Green, Ronald Knox, Julian Symons, Various"
+2398,"Roses are Red (Alex Cross, #6)",James Patterson
+2399,"Naked Empire (Sword of Truth, #8)",Terry Goodkind
+2401,The Stranger,Harlan Coben
+2403,A Passage to India,"E.M. Forster, Oliver Stallybrass, Pankaj Mishra"
+2404,"Seraphina (Seraphina, #1)",Rachel Hartman
+2406,"The Mammoth Hunters (Earth's Children, #3)",Jean M. Auel
+2407,"Princeps' Fury (Codex Alera, #5)",Jim Butcher
+2408,"Love Story (Love Story, #1)",Erich Segal
+2409,Chrysanthemum,Kevin Henkes
+2411,"The Winds of War (The Henry Family, #1)",Herman Wouk
+2412,"The Wind Through the Keyhole (The Dark Tower, #4.5)","Stephen King, Jae Lee"
+2415,"Bunnicula (Bunnicula, #1)","James Howe, Deborah Howe, Alan Daniel"
+2417,"Ascend (Trylle, #3)",Amanda Hocking
+2420,The Demigod Files (Percy Jackson and the Olympians),Rick Riordan
+2422,"End of Watch (Bill Hodges Trilogy, #3)",Stephen King
+2423,Fool,Christopher Moore
+2424,The Book of Lost Things,John Connolly
+2426,300,"Frank Miller, Lynn Varley"
+2429,"Persuader (Jack Reacher, #7)",Lee Child
+2430,"Grave Sight (Harper Connelly, #1)",Charlaine Harris
+2433,Picture Perfect,Jodi Picoult
+2437,"This Girl (Slammed, #3)",Colleen Hoover
+2440,The Satanic Verses,Salman Rushdie
+2443,"Collide (Collide, #1)",Gail McHugh
+2445,"The Beekeeper's Apprentice (Mary Russell, #1)",Laurie R. King
+2446,The Story of Babar,"Jean de Brunhoff, Merle S. Haas"
+2448,"First Lord's Fury (Codex Alera, #6)",Jim Butcher
+2449,The Imperfectionists,Tom Rachman
+2450,The Sea of Tranquility,Katja Millay
+2451,"Persepolis 2: The Story of a Return (Persepolis, #2)","Marjane Satrapi, Anjali Singh"
+2452,"Pyramids (Discworld, #7)",Terry Pratchett
+2453,"Silverthorn (The Riftwar Saga, #3)",Raymond E. Feist
+2458,"Chainfire (Sword of Truth, #9)",Terry Goodkind
+2461,"Confessor (Sword of Truth, #11)",Terry Goodkind
+2464,"Rabbit, Run (Rabbit Angstrom #1)",John Updike
+2466,The Waste Land and Other Poems,T.S. Eliot
+2467,Little Bear,"Else Holmelund Minarik, Maurice Sendak"
+2468,The Pit and the Pendulum,Edgar Allan Poe
+2469,"Lords and Ladies (Discworld, #14; Witches #4)",Terry Pratchett
+2470,"Thud! (Discworld, #34; City Watch #7)",Terry Pratchett
+2471,"His Majesty's Dragon (Temeraire, #1)",Naomi Novik
+2475,"My Side of the Mountain (Mountain, #1)",Jean Craighead George
+2476,"The Winter Sea (Slains, #1)","Susanna Kearsley, Rosalyn Landor"
+2478,Coma,Robin Cook
+2481,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown
+2484,The Picture of Dorian Gray: A Graphic Novel,"Ian Edginton, Oscar Wilde, I.N.J. Culbard"
+2485,Swan Song,Robert McCammon
+2486,The Buried Giant,Kazuo Ishiguro
+2487,"Perdido Street Station (Bas-Lag, #1)",China Miéville
+2489,"Witches Abroad (Discworld, #12; Witches #3)",Terry Pratchett
+2490,The Legend of Sleepy Hollow and Other Stories,"Geoffrey Crayon, Washington Irving, William L. Hedges"
+2491,Heretics of Dune (Dune Chronicles #5),Frank Herbert
+2493,"Captain's Fury (Codex Alera, #4)",Jim Butcher
+2494,"Damned (Damned, #1)",Chuck Palahniuk
+2496,Swamplandia!,Karen Russell
+2497,"The Last Coyote (Harry Bosch, #4; Harry Bosch Universe, #4)",Michael Connelly
+2498,Salt: A World History,Mark Kurlansky
+2499,Villette,"Charlotte Brontë, A.S. Byatt, Μαρία Λαϊνά, Ignes Sodre"
+2500,Reamde,Neal Stephenson
+2501,"Soul Music (Discworld, #16; Death, #3)",Terry Pratchett
+2502,"Notorious Nineteen (Stephanie Plum, #19)",Janet Evanovich
+2504,"Sin City, Vol. 1: The Hard Goodbye (Sin City, #1)",Frank Miller
+2506,"Casino Royale (James Bond, #1)",Ian Fleming
+2508,Sula,Toni Morrison
+2510,"The Red Queen (The Plantagenet and Tudor Novels, #3)",Philippa Gregory
+2512,Mr. Brown Can Moo! Can You?,Dr. Seuss
+2513,"Black House (The Talisman, #2)","Stephen King, Peter Straub"
+2516,The Dog Stars,Peter Heller
+2517,The Spy Who Came In from the Cold,John le Carré
+2518,"Academ's Fury (Codex Alera, #2)",Jim Butcher
+2519,"When the Wind Blows (When the Wind Blows, #1)",James Patterson
+2522,"The Hard Way (Jack Reacher, #10)",Lee Child
+2523,The Incredible Journey,Sheila Burnford
+2524,March,Geraldine Brooks
+2525,"A Wanted Man (Jack Reacher, #17)","Lee Child, Dick Hill"
+2530,The Widow,Fiona Barton
+2533,"The Winner's Curse (The Winner's Trilogy, #1)",Marie Rutkoski
+2535,The Story of a New Name (The Neapolitan Novels #2),"Elena Ferrante, Ann Goldstein"
+2536,"2010: Odyssey Two (Space Odyssey, #2)",Arthur C. Clarke
+2538,Ordinary Grace,William Kent Krueger
+2539,Last Man Standing,David Baldacci
+2541,Peter Pan (A Little Golden Book),"Eugene Bradley Coco, Ron Dias, Walt Disney Company"
+2542,"Ten Tiny Breaths (Ten Tiny Breaths, #1)",K.A. Tucker
+2543,The Thousand Autumns of Jacob de Zoet,David Mitchell
+2544,Dr. Faustus,Christopher Marlowe
+2547,"Violets Are Blue (Alex Cross, #7)",James Patterson
+2549,"Blue Moon (Anita Blake, Vampire Hunter, #8)",Laurell K. Hamilton
+2550,"Burnt Offerings (Anita Blake, Vampire Hunter, #7)",Laurell K. Hamilton
+2552,Player Piano,Kurt Vonnegut Jr.
+2553,"The Lost World (Professor Challenger, #1)",Arthur Conan Doyle
+2554,"Monstrous Regiment (Discworld, #31; Industrial Revolution, #3)",Terry Pratchett
+2556,"The Long Winter (Little House, #6)","Laura Ingalls Wilder, Garth Williams"
+2558,"Blue Lily, Lily Blue (The Raven Cycle, #3)",Maggie Stiefvater
+2559,Portnoy's Complaint,"Philip Roth, Luca Marinelli"
+2561,Cat's Eye,Margaret Atwood
+2564,"Shadow of the Giant (Ender's Shadow, #4)",Orson Scott Card
+2568,"The 6th Target (Women's Murder Club, #6)","James Patterson, Maxine Paetro"
+2570,"MaddAddam (MaddAddam, #3)",Margaret Atwood
+2571,"These Happy Golden Years (Little House, #8)","Laura Ingalls Wilder, Garth Williams"
+2573,Skipping Christmas,John Grisham
+2574,"The Black Ice (Harry Bosch, #2; Harry Bosch Universe, #2)",Michael Connelly
+2577,"The Sweet Far Thing (Gemma Doyle, #3)",Libba Bray
+2578,A Lesson Before Dying,Ernest J. Gaines
+2579,SantaLand Diaries,David Sedaris
+2581,"Mini Shopaholic (Shopaholic, #6)",Sophie Kinsella
+2582,Harry the Dirty Dog,"Gene Zion, Margaret Bloy Graham"
+2583,All Fall Down,Jennifer Weiner
+2587,"Ruin and Rising (Shadow and Bone, #3)",Leigh Bardugo
+2594,Rising Sun,Michael Crichton
+2596,"The Reversal (Harry Bosch, #16; Mickey Haller, #4; Harry Bosch Universe, #19)",Michael Connelly
+2597,Wayside School Is Falling Down (Wayside School #2),"Louis Sachar, Joel Schick"
+2598,The Invisible Bridge,"Julie Orringer, Arthur Morey"
+2600,The Mayor of Casterbridge,"Thomas Hardy, Keith Wilson"
+2601,The Red Pony,John Steinbeck
+2603,Here on Earth,Alice Hoffman
+2604,"Taltos (Lives of the Mayfair Witches, #3)","Anne Rice, Tim Curry"
+2605,"Obsidian Butterfly (Anita Blake, Vampire Hunter, #9)",Laurell K. Hamilton
+2607,The Appeal,John Grisham
+2608,"The Woman Who Rides Like a Man (Song of the Lioness, #3)",Tamora Pierce
+2611,"A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2)",Terry Pratchett
+2614,"River Marked (Mercy Thompson, #6)",Patricia Briggs
+2615,I Like You: Hospitality Under the Influence,Amy Sedaris
+2616,"Pattern Recognition (Blue Ant, #1)",William Gibson
+2620,Boy: Tales of Childhood,"Roald Dahl, Quentin Blake"
+2621,Traveling Mercies: Some Thoughts on Faith,Anne Lamott
+2623,"Wild Magic (Immortals, #1)",Tamora Pierce
+2624,Prelude to Foundation,Isaac Asimov
+2626,"The Wrath and the Dawn (The Wrath and the Dawn, #1)",Renee Ahdieh
+2629,"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas
+2630,American Wife,Curtis Sittenfeld
+2631,"Cursor's Fury (Codex Alera, #3)",Jim Butcher
+2632,"The Sparrow (The Sparrow, #1)",Mary Doria Russell
+2633,Mercy,Jodi Picoult
+2637,We Have Always Lived in the Castle,"Shirley Jackson, Jonathan Lethem"
+2639,"The Brass Verdict (Harry Bosch, #14; Mickey Haller, #2; Harry Bosch Universe, #17)",Michael Connelly
+2641,"Never Go Back (Jack Reacher, #18)",Lee Child
+2642,The Two Princesses of Bamarre,Gail Carson Levine
+2643,Black Boy,"Richard Wright, Jerry W. Ward Jr."
+2644,Cane River,Lalita Tademy
+2645,"Phantom (Sword of Truth, #10)",Terry Goodkind
+2646,Foundation and Earth (Foundation #5),Isaac Asimov
+2648,"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)","A.A. Milne, Ernest H. Shepard"
+2657,False Memory,Dean Koontz
+2658,"Moving Pictures (Discworld, #10; Industrial Revolution, #1)",Terry Pratchett
+2661,Bonk: The Curious Coupling of Science and Sex,Mary Roach
+2663,The Little Paris Bookshop,"Nina George, Simon Pare"
+2664,Sweet Tooth,Ian McEwan
+2665,"Twisted Perfection (Rosemary Beach, #5; Perfection, #1)",Abbi Glines
+2666,"Executive Orders (Jack Ryan Universe, #9)",Tom Clancy
+2669,"Ship of Magic (Liveship Traders, #1)",Robin Hobb
+2671,Circle of Friends,Maeve Binchy
+2674,Fragile Things: Short Fictions and Wonders,Neil Gaiman
+2677,"Thief of Time (Discworld, #26; Death, #5)",Terry Pratchett
+2679,Three Junes,Julia Glass
+2684,"Shadowland (The Mediator, #1)",Meg Cabot
+2687,"Fang (Maximum Ride, #6)",James Patterson
+2688,The Peach Keeper,Sarah Addison Allen
+2691,"You Suck (A Love Story, #2)",Christopher Moore
+2692,"Beautiful Oblivion (The Maddox Brothers, #1)",Jamie McGuire
+2695,"The Face on the Milk Carton (Janie Johnson, #1)",Caroline B. Cooney
+2699,"Flat-Out Love (Flat-Out Love, #1)",Jessica Park
+2701,"The Claiming of Sleeping Beauty (Sleeping Beauty, #1)","A.N. Roquelaure, Anne Rice"
+2704,Then Came You,Jennifer Weiner
+2705,"The Awakening (The Vampire Diaries, #1)",L.J. Smith
+2710,"The Virgin's Lover (The Plantagenet and Tudor Novels, #13)",Philippa Gregory
+2711,"Incarceron (Incarceron, #1)",Catherine Fisher
+2718,"The Fifth Elephant (Discworld, #24; City Watch, #5)",Terry Pratchett
+2721,"Hexed (The Iron Druid Chronicles, #2)",Kevin Hearne
+2724,Hiroshima,John Hersey
+2730,"The Cardinal of the Kremlin (Jack Ryan Universe, #5)",Tom Clancy
+2732,Utopia,"Thomas More, Paul Turner"
+2735,The Husband,Dean Koontz
+2736,The Particular Sadness of Lemon Cake,Aimee Bender
+2737,"The Big Bad Wolf  (Alex Cross, #9)",James Patterson
+2738,Balzac and the Little Chinese Seamstress,"Dai Sijie, Ina Rilke"
+2741,Danny the Champion of the World,"Roald Dahl, Quentin Blake"
+2742,Battle Hymn of the Tiger Mother,Amy Chua
+2745,"From Potter's Field (Kay Scarpetta, #6)",Patricia Cornwell
+2746,"Mary, Mary (Alex Cross, #11)",James Patterson
+2750,"Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle, #1)","Betty MacDonald, Alexandra Boiger"
+2751,"Trunk Music (Harry Bosch, #5; Harry Bosch Universe, #6)",Michael Connelly
+2754,"Blood Work (Harry Bosch Universe, #8; Terry McCaleb #1)",Michael Connelly
+2755,The Gods Themselves,Isaac Asimov
+2757,"Ahab's Wife, or The Star-Gazer",Sena Jeter Naslund
+2760,"The League of Extraordinary Gentlemen, Vol. 1","Alan Moore, Kevin O'Neill"
+2761,Feed,M.T. Anderson
+2763,Medea,"Euripides, Rex Warner"
+2773,"7th Heaven (Women's Murder Club, #7)","James Patterson, Maxine Paetro"
+2775,A Constellation of Vital Phenomena,Anthony Marra
+2777,The End of Your Life Book Club,Will Schwalbe
+2783,"Emperor Mage (Immortals, #3)",Tamora Pierce
+2786,"Julie of the Wolves (Julie of the Wolves, #1)","Jean Craighead George, John Schoenherr"
+2787,Forever . . .,Judy Blume
+2789,The Matarese Circle (Matarese #1),Robert Ludlum
+2792,"Shadows of Self (Mistborn, #5)",Brandon Sanderson
+2798,"I, Claudius (Claudius, #1)",Robert Graves
+2800,"Takedown Twenty (Stephanie Plum, #20)",Janet Evanovich
+2802,"Terrier (Beka Cooper, #1)",Tamora Pierce
+2807,"The Good, the Bad, and the Undead (The Hollows, #2)",Kim Harrison
+2809,Wide Sargasso Sea,Jean Rhys
+2810,The Magus,John Fowles
+2811,"King of the Murgos (The Malloreon, #2)",David Eddings
+2814,"Dreams of Gods & Monsters (Daughter of Smoke & Bone, #3)",Laini Taylor
+2815,Playing for Pizza,John Grisham
+2817,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert
+2820,Icy Sparks,Gwyn Hyman Rubio
+2821,"Anne's House of Dreams (Anne of Green Gables, #5)",L.M. Montgomery
+2823,"J is for Judgment (Kinsey Millhone, #10)",Sue Grafton
+2824,The Physick Book of Deliverance Dane,Katherine Howe
+2846,Hard Times,Charles Dickens
+2848,A God in Ruins,Kate Atkinson
+2849,Caught,Harlan Coben
+2850,"Magic Study (Study, #2)",Maria V. Snyder
+2854,A Town Like Alice,Nevil Shute
+2859,"Debt of Honor (Jack Ryan Universe, #8)",Tom Clancy
+2862,Strangers,Dean Koontz
+2868,"Existence (Existence Trilogy, #1)",Abbi Glines
+2873,Lucifer's Hammer,"Larry Niven, Jerry Pournelle"
+2875,Of Human Bondage,"W. Somerset Maugham, Benjamin DeMott, Maeve Binchy"
+2877,"The Complete Tales and Poems of Winnie-the-Pooh (Winnie-the-Pooh, #1-4)","A.A. Milne, Ernest H. Shepard"
+2879,Mike Mulligan and His Steam Shovel,Virginia Lee Burton
+2881,"Making Money (Discworld, #36; Moist Von Lipwig, #2)",Terry Pratchett
+2883,Harvesting the Heart,Jodi Picoult
+2887,"For a Few Demons More (The Hollows, #5)",Kim Harrison
+2888,"The Secret Place (Dublin Murder Squad, #5)",Tana French
+2892,The Complete Adventures of Curious George,"Margret Rey, H.A. Rey"
+2897,Assassination Vacation,Sarah Vowell
+2898,Nine Princes in Amber (The Chronicles of Amber #1),Roger Zelazny
+2899,The Museum of Extraordinary Things,Alice Hoffman
+2900,"Ender in Exile (Ender's Saga, #1.2)",Orson Scott Card
+2901,"Undead and Unwed (Undead, #1)",MaryJanice Davidson
+2903,The Power of Myth,"Joseph Campbell, Bill Moyers"
+2911,"Narcissus in Chains (Anita Blake, Vampire Hunter, #10)",Laurell K. Hamilton
+2914,Special Topics in Calamity Physics,Marisha Pessl
+2923,"Practical Demonkeeping (Pine Cove, #1)",Christopher Moore
+2927,The Horse Whisperer,Nicholas Evans
+2930,"The Outlaw Demon Wails (The Hollows, #6)",Kim Harrison
+2936,"Eric (Discworld, #9; Rincewind #4)",Terry Pratchett
+2937,A Game of You (The Sandman #5),"Neil Gaiman, Shawn McManus, Colleen Doran, Bryan Talbot, George Pratt, Stan Woch, Dick Giordano, Todd Klein"
+2939,Beach Music,Pat Conroy
+2942,"Tai-Pan (Asian Saga, #2)",James Clavell
+2943,The Weird Sisters,Eleanor Brown
+2944,"The Truth (Discworld, #25; Industrial Revolution, #2)",Terry Pratchett
+2945,The Leftovers,Tom Perrotta
+2950,All the President's Men,"Carl Bernstein, Bob Woodward"
+2952,The Mill on the Floss,"George Eliot, A.S. Byatt"
+2953,Super Sad True Love Story,Gary Shteyngart
+2959,"Trickster's Queen (Daughter of the Lioness, #2)",Tamora Pierce
+2960,"The Poetry of Robert Frost (Collected Poems, Complete & Unabridged)","Robert Frost, Edward Connery Lathem"
+2965,"The Plains of Passage (Earth's Children, #4)",Jean M. Auel
+2969,The City & the City,China Miéville
+2976,"Ramona the Brave (Ramona, #3)","Beverly Cleary, Alan Tiegreen"
+2978,The Emperor's Soul,Brandon Sanderson
+2979,Just After Sunset,Stephen King
+2981,"Double Cross (Alex Cross, #13)",James Patterson
+2985,The View from Saturday,E.L. Konigsburg
+2990,"The Story of Doctor Dolittle (Doctor Dolittle, #1)","Hugh Lofting, Michael Hague"
+2993,The Lottery,Shirley Jackson
+2994,"Big Stone Gap (Big Stone Gap, #1)",Adriana Trigiani
+2997,"The Fiery Heart (Bloodlines, #4)",Richelle Mead
+3000,"Jingo (Discworld, #21; City Watch, #4)",Terry Pratchett
+3002,Sons and Lovers,"D.H. Lawrence, Geoff Dyer"
+3004,"Crash (Crash, #1)",Nicole  Williams
+3007,Peony in Love,Lisa See
+3022,Sir Gawain and the Green Knight ,"Unknown, Burton Raffel, Neil D. Isaacs"
+3025,"Plum Lovin' (Stephanie Plum, #12.5)",Janet Evanovich
+3027,Another Roadside Attraction,Tom Robbins
+3028,Sarum: The Novel of England,Edward Rutherfurd
+3033,The Right Stuff,Tom Wolfe
+3036,"Fluke: Or, I Know Why the Winged Whale Sings",Christopher Moore
+3040,"Because of Low (Sea Breeze, #2)",Abbi Glines
+3047,Fox in Socks,Dr. Seuss
+3051,Stone Soup,Marcia Brown
+3063,"The Dark Is Rising (The Dark is Rising, #2)",Susan Cooper
+3064,Purity,Jonathan Franzen
+3066,"Four Blind Mice (Alex Cross, #8)",James Patterson
+3076,The French Lieutenant's Woman,John Fowles
+3077,The Rime of the Ancient Mariner,"Samuel Taylor Coleridge, Gustave Doré"
+3079,Tortilla Flat,John Steinbeck
+3082,Brief Lives (The Sandman #7),"Neil Gaiman, Jill Thompson, Vince Locke, Peter Straub"
+3084,"The People of Sparks (Book of Ember, #2)",Jeanne DuPrau
+3086,Fables and Reflections (The Sandman #6),"Neil Gaiman, Bryan Talbot, Stan Woch, P. Craig Russell, Shawn McManus, John Watkiss, Jill Thompson, Duncan Eagleson, Kent Williams, Todd Klein"
+3090,Valley of the Dolls,Jacqueline Susann
+3091,The Source,James A. Michener
+3096,"Guardians of the West (The Malloreon, #1)",David Eddings
+3100,How to Eat Fried Worms,Thomas Rockwell
+3120,The High King (The Chronicles of Prydain #5),Lloyd Alexander
+3128,The Mummy (Ramses the Damned #1),Anne Rice
+3138,"Anne of Windy Poplars (Anne of Green Gables, #4)",L.M. Montgomery
+3143,The Far Pavilions,M.M. Kaye
+3144,"Nothing to Lose (Jack Reacher, #12)",Lee Child
+3147,"The Rithmatist (The Rithmatist, #1)",Brandon Sanderson
+3166,"A Kiss of Shadows (Merry Gentry, #1)",Laurell K. Hamilton
+3175,"Odd Hours (Odd Thomas, #4)",Dean Koontz
+3177,"The Realms of the Gods (Immortals, #4)",Tamora Pierce
+3194,Sisterland,Curtis Sittenfeld
+3198,"The Concrete Blonde (Harry Bosch, #3; Harry Bosch Universe, #3)",Michael Connelly
+3200,Carpe Jugulum (Discworld #23; Witches #6),Terry Pratchett
+3205,Cycle of the Werewolf,"Stephen King, Bernie Wrightson"
+3223,"London Bridges (Alex Cross, #10)",James Patterson
+3232,The Story About Ping,"Marjorie Flack, Kurt Wiese"
+3234,"Farmer Boy (Little House, #3)","Laura Ingalls Wilder, Garth Williams"
+3237,Bastard Out of Carolina,Dorothy Allison
+3240,The Burden of Proof,Scott Turow
+3244,"Trickster's Choice (Daughter of the Lioness, #1)",Tamora Pierce
+3249,"Calamity (The Reckoners, #3)",Brandon Sanderson
+3250,Shopgirl,Steve Martin
+3264,"Noble House (Asian Saga, #5)",James Clavell
+3274,Hop On Pop,Dr. Seuss
+3280,"Lost Light (Harry Bosch, #9; Harry Bosch Universe, #11)",Michael Connelly
+3284,Jewel,Bret Lott
+3293,One True Thing,Anna Quindlen
+3304,Freckle Juice,Judy Blume
+3306,Just So Stories,Rudyard Kipling
+3309,"Side Jobs: Stories from the Dresden Files (The Dresden Files, #12.5)",Jim Butcher
+3311,The Hundred Secret Senses,Amy Tan
+3323,A Christmas Carol and Other Christmas Writings,"Charles Dickens, Michael Slater"
+3340,Merrick (The Vampire Chronicles #7),Anne Rice
+3341,"The Bands of Mourning (Mistborn, #6)",Brandon Sanderson
+3344,The Road Not Taken and Other Poems,Robert Frost
+3352,Girl in Hyacinth Blue,Susan Vreeland
+3359,"Maskerade (Discworld, #18; Witches #5)",Terry Pratchett
+3362,"The Last Continent (Discworld, #22; Rincewind #6)",Terry Pratchett
+3364,Our Town,"Thornton Wilder, Donald Margulies, Tappan Wilder"
+3388,"Absalom, Absalom!",William Faulkner
+3395,The Kindly Ones (The Sandman #9),"Neil Gaiman, Marc Hempel, Richard Case, D'Israeli, Teddy Kristiansen, Glyn Dillon, Charles Vess, Dean Ormston, Kevin Nowlan, Todd Klein, Frank McConnell"
+3396,Worlds' End (The Sandman #8),"Neil Gaiman, Mike Allred, Gary Amaro, Mark Buckingham, David Giordano, Tony Harris, Steve Leialoha, Vince Locke, Shea Anton Pensa, Alec Stevens, Bryan Talbot, John Watkiss, Todd Klein, Michael Zulli, Stephen King"
+3406,The Dante Club,Matthew Pearl
+3410,Centennial,James A. Michener
+3456,Run,Ann Patchett
+3462,"Snuff (Discworld, #39; City Watch #8)",Terry Pratchett
+3468,The Rapture of Canaan,Sheri Reynolds
+3492,"The Seeress of Kell (The Malloreon, #5)",David Eddings
+3497,"First Test (Protector of the Small, #1)",Tamora Pierce
+3504,The Known World,Edward P. Jones
+3513,"Fear Nothing (Moonlight Bay, #1)",Dean Koontz
+3524,"Lost in a Good Book (Thursday Next, #2)",Jasper Fforde
+3530,"Sorceress of Darshiva (The Malloreon, #4)",David Eddings
+3536,"Lady Knight (Protector of the Small, #4)",Tamora Pierce
+3547,"Wintersmith (Discworld, #35; Tiffany Aching, #3)",Terry Pratchett
+3580,"Little Men (Little Women, #2)",Louisa May Alcott
+3595,Mythology: Timeless Tales of Gods and Heroes,"Edith Hamilton, Steele Savage"
+3613,My Name Is Asher Lev,Chaim Potok
+3643,Ragtime,E.L. Doctorow
+3654,"Unseen Academicals (Discworld, #37; Rincewind #8)",Terry Pratchett
+3657,"The Chocolate War (Chocolate War, #1)",Robert Cormier
+3698,The Real Mother Goose,Blanche Fisher Wright
+3700,Richard III,"William Shakespeare, John Jowett"
+3724,The Postmistress,"Sarah Blake, Orlagh Cassidy"
+3731,"I Shall Wear Midnight (Discworld, #38; Tiffany Aching, #4)",Terry Pratchett
+3818,"The Crystal Cave (Arthurian Saga, #1)",Mary  Stewart
+3826,"Over Sea, Under Stone (The Dark Is Rising, #1)",Susan Cooper
+3889,The Stone Diaries,Carol Shields
+3948,Henry V,"William Shakespeare, Barbara A. Mowat, Paul Werstine"
