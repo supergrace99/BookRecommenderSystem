@@ -14,4 +14,7 @@ My decision to build a recommender system for books stemmed from my love for rea
 <p>
 Therefore, I've decided to combine my interest in data science with my love for books in order to build a recommender system that takes into account books that I would like my next recommendation to be based on, regardless of genre, through collaborative filtering.
 </p>
-
+</n>
+<p>
+ P.S. I am aware that getting a GoodReads account would probably solve my problem, but I think building this would be way more fun!
+</p>
