@@ -22,8 +22,12 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <h3> File Descriptions </h3>
 <details>
   <summary>Click to expand!</summary>
-  1. <a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work
-  2. list
+  1. <a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work 
+  * List 1
+   
+  
+  3. 
+  4. list
      * With some
      * Sub bullets
 </details>
