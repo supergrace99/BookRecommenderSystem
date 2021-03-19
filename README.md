@@ -18,3 +18,12 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'>
  P.S. I am aware that getting a GoodReads account would probably solve my problem, but I think building this would be way more fun!
 </p>
+
+<h3> File Descriptions </h3>
+<details>
+  <summary>Click to expand!</summary>
+  1. <a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work
+  2. list
+     * With some
+     * Sub bullets
+</details>
