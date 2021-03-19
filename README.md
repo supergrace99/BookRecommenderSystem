@@ -48,6 +48,15 @@ Therefore, I've decided to combine my interest in data science with my love for 
     <li><b>Seaborn</b>: data visualization library based on matplotlib</li>
     <li><b>Surprise</b>: a Python <b>scikit</b> for building and testing recommender systems</li>
   </ul>
+</details>
+</n>
+<h3>Executive Summary</h3>
+<h5>Effective Data Analysis & Preprocessing</h5>
+<details>
+  <summary>Show/Hide</summary>
+  
+</details>
+
  
 
 
