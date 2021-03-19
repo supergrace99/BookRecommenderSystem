@@ -37,7 +37,17 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Recommender.py"><b>Recommender.py</b></a>: Contains all functions required for user to use the final recommender system</li>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Interface.ipynb"><b>Interface.ipynb</b></a>: The final recommender system for users</li>
 </ol>
+</details>
+</n>
+<h3>Technologies Used</h3>
+<details>
+  <summary>Show/Hide</summary>
+  <ul>
+    <li><b>Pandas</b>: software library written for the Python programming language for data manipulation and analysis</li>
+    <li><b>Matplotlib</b>: a plotting library for the Python programming language and its numerical mathematics extension NumPy</li>
+    <li><b>Seaborn</b>: data visualization library based on matplotlib</li>
+    <li><b>Surprise</b>: a Python <b>scikit</b> for building and testing recommender systems</li>
+  </ul>
  
-   
-  
+
 
