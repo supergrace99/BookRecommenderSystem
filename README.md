@@ -51,7 +51,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 </details>
 </n>
 <h3>Executive Summary</h3>
-<h5>Effective Data Analysis & Preprocessing</h5>
+<h4>Effective Data Analysis & Preprocessing</h4>
 <details>
   <summary>Show/Hide</summary>
   
