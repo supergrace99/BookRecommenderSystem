@@ -30,7 +30,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
     <li><b>DataSet.csv.zip</b>:The final dataset used for model selection, parameter tuning and for the recommender system itself </li>
     <li><b>book_list.csv</b>: Dataset required for the recommender system itself</li>
   </ul>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Extraction.ipynb"><b>Data Extraction.ipynb</b></a>: Documents the data extraction process, whereby the books.csv dataset and ratings.csv dataset were combined to work with</li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Extraction.ipynb"><b>Data Extraction.ipynb</b></a>: Documents data preprocessing, whereby subsets of the books.csv dataset and ratings.csv dataset were combined to work with</li>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Cleaning.ipynb"><b>Data Cleaning.ipynb</b></a>: Contains jupyter notebook documenting the data cleaning process, primarily removing certain pieces of data to avoid memory errors</li>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Model%20Selection.ipynb"><b>Model Selection.ipynb</b></a>: Models considered for the recommendation system </li>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Parameter%20Tuning.ipynb"><b>Parameter Tuning.ipynb</b></a>: Documents the manual paramter tuning conducted for model improvement</li>
@@ -51,7 +51,19 @@ Therefore, I've decided to combine my interest in data science with my love for 
 </details>
 </n>
 <h3>Executive Summary</h3>
-<h4>Effective Data Analysis & Preprocessing</h4>
+<h4>Data Preprocessing </h4>
+<p align='justify'>
+  In order to build a recommendation system via collaborative filetering, a data set that contains a way of identify a user (user_id), the book they are rating (book_id) and their actual rating (rating) of the book must be created. To do this, the datasets books.csv and ratings.csv were used. While the ratings.csv dataset, contained all relevant information required to build the recommendation system, the books.csv was needed to identify the books from their book id as the dataset contains important information such as the title, authors and language of the book along with their respective book ID (book_id).</p>
+  </n>
+ <p align='justify'>
+  From early data analysis of the book.csv data set, we found that there were books in the ratings.csv file that were not in the English language. As English books made up the vast majority books (89%) as illustrated in the pie chart below and as I was interested in building a recommender system that recommended only English books, books that were not in english were removed from the dataset. This process can be found in Data Extraction.ipynb </p>
+<p align ='center'>
+  <img src=
+  </p>
+  
+  
+  
+  
 
 
  
