@@ -68,6 +68,10 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'>
   As the accuracy of recommender systems built with collaborative filtering are unable to provide accurate recommendations when users and items have few ratings, I decided to remove users and books with the fewest ratings respectively. The bottom 10% of the frequency at which users rate books have rated less than 82 books while on average, users make 111 ratings. I decided to remove users that have made less than or equal to 80 ratings, which comprises of 5219 of the 53424 (approx 10%) of users. For books however, as there is a large difference in the frequency at which books are rated, as seen in the median number of ratings a book receives being 250 but the most infrequently rated book receiving 8 ratings while the most freqnently rated book receiving 22806 ratings. As such, I have deicided to remove books that have been rated fewer than 100 times, this accounts for 449 of the 9814 books (4.5%). By removing these users and books, I was able to reduce the size of the dataset by 6% to 5,563,131. This process has been documented in Data Cleaning.ipynb.
   </p>
+  
+<p align='justify'>
+  Another thing to note is that I found that there is an inbalance in distribution of ratings, it appeares that most users tend to rate books only when they have left a favourable impression upon them. Ratings 4 and 5 tend to occur at the greatest frequency while a rating of 1 happens rather relatively infrequently. This is seen in the plot below.
+  </p>
        
   
   
