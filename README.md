@@ -72,6 +72,12 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'>
   Another thing to note is that I found that there is an inbalance in distribution of ratings, it appeares that most users tend to rate books only when they have left a favourable impression upon them. Ratings 4 and 5 tend to occur at the greatest frequency while a rating of 1 happens rather relatively infrequently. This is seen in the plot below.
   </p>
+  </n>
+  <p align='center'>
+  <img width=350 height=300 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%202.png?raw=true">
+  <p align='center'>Distribution of Ratings</p>
+  </p>
+</n>
        
   
   
