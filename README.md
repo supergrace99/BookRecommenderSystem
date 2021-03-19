@@ -57,10 +57,10 @@ Therefore, I've decided to combine my interest in data science with my love for 
   </n>
  <p align='justify'>
   From early data analysis of the book.csv data set, we found that there were books in the ratings.csv file that were not in the English language. As English books made up the vast majority books (89%) as illustrated in the pie chart below and as I was interested in building a recommender system that recommended only English books, books that were not in english were removed from the dataset. This process can be found in Data Extraction.ipynb </p>
-<figure>
+<p align='center'>
   <img width=350 height=300 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%201.png?raw=true">
-  <figcaption align='center'>Pie Chart of Book Languages</figcaption>
-  </figure>
+  <p align='center'>Pie Chart of Book Languages</p>
+  </p>
   
   
   
