@@ -21,21 +21,21 @@ Therefore, I've decided to combine my interest in data science with my love for 
 
 <h3> File Descriptions </h3>
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Show/Hide</summary>
 <ol>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work</li>
+  <li><a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data"><b>Data</b></a>: Folder contains all datasets created or required for recommender system to work</li>
   <ul>
     <li><b>ratings.csv.zip</b>: Contains ratings of 53434 different users on a variety of diiferent books</li>
     <li><b>books.csv</b>: Has metadata for each book (goodreads IDs, authors, title, average rating, etc.)</li>
     <li><b>DataSet.csv.zip</b>:The final dataset used for model selection, parameter tuning and for the recommender system itself </li>
     <li><b>book_list.csv</b>: Dataset required for the recommender system itself</li>
   </ul>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Extraction.ipynb">Data Extraction.ipynb</a>: Documents the data extraction process, whereby the books.csv dataset and ratings.csv dataset were combined to work with</li>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Cleaning.ipynb">Data Cleaning.ipynb</a>: Contains jupyter notebook documenting the data cleaning process, primarily removing certain pieces of data to avoid memory errors</li>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Model%20Selection.ipynb">Model Selection.ipynb</a>: Models considered for the recommendation system </li>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Parameter%20Tuning.ipynb">Parameter Tuning.ipynb</a>: Documents the manual paramter tuning conducted for model improvement</li>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Recommender.py">Recommender.py</a>: Contains all functions required for user to use the final recommender system</li>
-<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Interface.ipynb">Interface.ipynb</a>: The final recommender system for users</li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Extraction.ipynb"><b>Data Extraction.ipynb</b></a>: Documents the data extraction process, whereby the books.csv dataset and ratings.csv dataset were combined to work with</li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Cleaning.ipynb"><b>Data Cleaning.ipynb</b></a>: Contains jupyter notebook documenting the data cleaning process, primarily removing certain pieces of data to avoid memory errors</li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Model%20Selection.ipynb"><b>Model Selection.ipynb</b></a>: Models considered for the recommendation system </li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Parameter%20Tuning.ipynb"><b>Parameter Tuning.ipynb</b></a>: Documents the manual paramter tuning conducted for model improvement</li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Recommender.py"><b>Recommender.py</b></a>: Contains all functions required for user to use the final recommender system</li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Interface.ipynb"><b>Interface.ipynb</b></a>: The final recommender system for users</li>
 </ol>
  
    
