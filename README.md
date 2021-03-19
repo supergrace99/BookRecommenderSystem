@@ -24,6 +24,8 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <summary>Click to expand!</summary>
   1. <a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work 
  - List
+ - List 
+ - List
    
   
 
