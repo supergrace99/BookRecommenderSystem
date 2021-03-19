@@ -25,9 +25,10 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <ol>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work</li>
   <ul>
-    <li>##ratings.csv.zip##: Contains ratings of 53434 different users on a variety of diiferent books</li>
-    <li>**books.csv**: Has metadata for each book (goodreads IDs, authors, title, average rating, etc.)</li>
-    <li>**DataSet.csv.zip**:The final dataset used for model selection, parameter tuning and for the recommender system itself </li>
+    <li><b>ratings.csv.zip</b>: Contains ratings of 53434 different users on a variety of diiferent books</li>
+    <li><b>books.csv</b>: Has metadata for each book (goodreads IDs, authors, title, average rating, etc.)</li>
+    <li><b>DataSet.csv.zip</b>:The final dataset used for model selection, parameter tuning and for the recommender system itself </li>
+    <li><b>book_list.csv</b>: Dataset required for the recommender system itself</li>
   </ul>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Extraction.ipynb">Data Extraction.ipynb</a>: Documents the data extraction process, whereby the books.csv dataset and ratings.csv dataset were combined to work with</li>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Data%20Cleaning.ipynb">Data Cleaning.ipynb</a>: Contains jupyter notebook documenting the data cleaning process, primarily removing certain pieces of data to avoid memory errors</li>
