@@ -61,6 +61,11 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <img width=350 height=300 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%201.png?raw=true">
   <p align='center'>Pie Chart of Book Languages</p>
   </p>
+</n>
+<p align='justify'>
+  At this point the dataset to be used for the recommender system contained 5,916,166 observations, comprising of the ratings of 53424 users on 9814 books. As 5,916,166 observations is relatively large, I had concerns of causing memory errors when fitting models due to limitations of my computers GPU RAM. In order to avoid this issue, I removed a certain portion of users and books from the dataset.</p>
+  </n>
+       
   
   
   
