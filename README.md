@@ -25,7 +25,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <ol>
 <li><a href="https://github.com/supergrace99/BookRecommenderSystem/tree/main/Data">Data</a>: Folder contains all datasets created or required for recommender system to work</li>
   <ul>
-    <li>**ratings.csv.zip**: Contains ratings of 53434 different users on a variety of diiferent books</li>
+    <li>##ratings.csv.zip##: Contains ratings of 53434 different users on a variety of diiferent books</li>
     <li>**books.csv**: Has metadata for each book (goodreads IDs, authors, title, average rating, etc.)</li>
     <li>**DataSet.csv.zip**:The final dataset used for model selection, parameter tuning and for the recommender system itself </li>
   </ul>
