@@ -89,7 +89,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'>
   For the model based approach, I considered 2 kinds of matrix factorisation based algorithms. These algorithms reduce and compress the large matrix that comprises of the user and book data, the reduction and compression is desirable as the matrix I have is relatively sparse as users are unlikely to have rated all 9365 books. In these instances, reducing dimensionality tends to improve the performance of algorithms.
   </p>
-<h5>Models Considered</h5>
+<h4>Models Considered</h4>
   <ul>
     <li>Memory Based</li>
     </n>
