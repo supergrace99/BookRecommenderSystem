@@ -84,7 +84,15 @@ Therefore, I've decided to combine my interest in data science with my love for 
   </p>
   </n>
 <p align='justify'>
-  <h6>Models Considered: </h6>
+  For the recommender system, I considered both the memory based and model based approaches. For the memory based approach I considered 4 types of KNN algorithms, these algorithms were used to calculate the similarities between books based on users ratings in the training set which was then used as weights to predict the rating a user would give an item in the test set. The similiarities between items was used as weights as opposed to the similarities between users for the memory based approach in order to avoid the issue of dimensionality as there were fewer books (9365) than users (48205). 
+  </p>
+<p align='justify'>
+  For the model based approach, I considered 2 kinds of matrix factorisation based algorithms. These algorithms reduce and compress the large matrix that comprises of the user and book data, the reduction and compression is desirable as the matrix I have is relatively sparse as users are unlikely to have rated all 9365 books. In these instances, reducing dimensionality tends to improve the performance of algorithms.
+  </p>
+<h6>Models Considered: </h6>
+<ol>
+  <li><b>Baseline Model: </b></n><p align='justify'>Makes estimations of user ratings based on the overall average ratings made in the training set plus the bias of the user the estimation is being made for and the bias of the item to be predicted.</p></li>
+  </ol>
   
   
   
