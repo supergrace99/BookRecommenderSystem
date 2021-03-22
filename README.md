@@ -91,7 +91,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
   </p>
 <h6>Models Considered: </h6>
 <ol>
-  <li><b>Baseline Model: </b></n><p align='justify'>Makes estimations of user ratings based on the overall average ratings made in the training set plus the bias of the user the estimation is being made for and the bias of the item to be predicted.</p></li>
+  <li><b>Baseline Model: </b><p align='justify'>Makes estimations of user ratings based on the overall average ratings made in the training set plus the bias of the user the estimation is being made for and the bias of the item to be predicted.</p></li>
   </ol>
   
   
