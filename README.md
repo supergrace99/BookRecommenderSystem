@@ -91,13 +91,15 @@ Therefore, I've decided to combine my interest in data science with my love for 
   </p>
 <h6>Models Considered>
   <ul>
-    <li><b>Memory Based</b></li>
+    <li>Memory Based</li>
+    </n>
     <ul>
       <li>KNNBasic</li>
       <li>KNNWithMeans</li>
       <li>KNNWithZScore</li>
       <li>KNNBaseline</li>  
     </ul>
+  </n>
     <li>Model Based</li>
     <ul>
       <li>SVD</li>
