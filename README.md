@@ -109,7 +109,12 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <p align='justify'>Please read the Surprise documentation for each approach <a href="https://surprise.readthedocs.io/en/stable/prediction_algorithms_package.html">HERE</a> </p>
   </n>
 <p align="justify"> The results of my model selection process can be found in the table below. I noted that the model that recorded the lowest RMSE was the singular value decompostion model (SVD). The SVD algorithm, as popularized by Simon Funk during the Netflix Prize, has long been considered the ideal model for different types of recommendation systems, as such this result did not surprise me too much particularly due to the sparsity of my matrix as mentioned earlier. In comparison the the baseline, there appears to be a 3% improvement in estimations of ratings when the SVD is used. While 3% may not seem like much, it should be noted that in past recorded attempts to build recommender systems, such as during the Netflix Prize, an 8.43% improvement in the recommender system, which required more than 2000 hours of work in order to come up with the final combination of 107 algorithms, was enough to secure the team the first Progress Prize. (<a href="https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429">source</a>). Hence, I would consider a 3% improvement from the baseline model quire impressive seeing as only a single SVD algorithm is used.
-  
+
+<p align='center'>
+  <img width=350 height=300 src=" https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Model%20Selection.png?raw=true">
+  <p align='center'>Model Selection Results</p>
+  </p>
+</p>
   
   
 
