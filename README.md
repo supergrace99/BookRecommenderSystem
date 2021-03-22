@@ -78,7 +78,13 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <p align='center'>Distribution of Ratings</p>
   </p>
 </n>
-       
+<h4>Model Selection </h4>
+<p align='justify'>
+  Due to hardware limitations, I was unable to perform the more accurate cross validation for model selection and instead split the data (DataSet.csv) into a training set (80% od data) and test set (20% of data). The training set was fitted to different models while the accuracy of each model was tested using Root Mean Square Errors (RMSE) of the fitted models on the test set, the models were compared to a baseline model as described below. The model that was deemed to have the lowest RMSE would be chosen as the most appropriate model for the data set.
+  </p>
+  </n>
+<p align='justify'>
+  <h6>Models Considered: </h6>
   
   
   
