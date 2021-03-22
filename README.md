@@ -80,7 +80,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 </n>
 <h4>Model Selection </h4>
 <p align='justify'>
-  Due to hardware limitations, I was unable to perform the more accurate cross validation for model selection and instead split the data (DataSet.csv) into a training set (80% od data) and test set (20% of data). The training set was fitted to different models while the accuracy of each model was tested using Root Mean Square Errors (RMSE) of the fitted models on the test set, the models were compared to a baseline model as described below. The model that was deemed to have the lowest RMSE would be chosen as the most appropriate model for the data set.
+  Due to hardware limitations, I was unable to perform the more accurate cross validation for model selection and instead split the data (DataSet.csv) into a training set (80% od data) and test set (20% of data). The training set was fitted to different models while the accuracy of each model was tested using Root Mean Square Errors (RMSE) of the fitted models on the test set, the models were compared to a baseline model which makes estimations of user ratings based on the overall average ratings made in the training set plus the bias of the user the estimation is being made for and the bias of the item to be predicted. The model that was deemed to have the lowest RMSE would be chosen as the most appropriate model for the data set.
   </p>
   </n>
 <p align='justify'>
@@ -89,10 +89,22 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'>
   For the model based approach, I considered 2 kinds of matrix factorisation based algorithms. These algorithms reduce and compress the large matrix that comprises of the user and book data, the reduction and compression is desirable as the matrix I have is relatively sparse as users are unlikely to have rated all 9365 books. In these instances, reducing dimensionality tends to improve the performance of algorithms.
   </p>
-<h6>Models Considered: </h6>
-<ol>
-  <li><b>Baseline Model: </b><p align='justify'>Makes estimations of user ratings based on the overall average ratings made in the training set plus the bias of the user the estimation is being made for and the bias of the item to be predicted.</p></li>
-  </ol>
+<h6>Models Considered>
+  <ul>
+    <li><b>Memory Based</b></li>
+    <ul>
+      <li>KNNBasic</li>
+      <li>KNNWithMeans</li>
+      <li>KNNWithZScore</li>
+      <li>KNNBaseline</li>  
+    </ul>
+    <li>Model Based</li>
+    <ul>
+      <li>SVD</li>
+      <li>NMF</li>
+    </ul>
+  </ul>
+  <p align='justify'>Please read the Surprise documentation for each approach <a href="https://surprise.readthedocs.io/en/stable/prediction_algorithms_package.html">HERE</a> </p>
   
   
   
