@@ -130,6 +130,10 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='center'>
   <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%204.png?raw=true">
 </p>
+<p align='justify'> 0.03 was chosen for the regularization term (reg_all) as it results in the lowest RMSE as seen in the plot below. The regularization term is used to prevent overfitting in the model, should the term be too large it results in underfitting and should it be too small it will not be able to prevent overfitting of the model.
+  <p align='center'>
+  <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%205.png?raw=true">
+</p>
 
 
  
