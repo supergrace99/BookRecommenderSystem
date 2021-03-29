@@ -123,7 +123,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'> When considering the optimal number of iterations on the SGD procedure (n_epochs) the model should take, the default number of iterations, 20 was found to produce the best results as seen in the plot below.</p>
 </n>
 <p align='center'>
-  <img width=350 heigh=300 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%203.png?raw=true">
+  <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%203.png?raw=true">
 </p>
 
   
