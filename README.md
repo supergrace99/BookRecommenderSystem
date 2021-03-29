@@ -115,7 +115,16 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <p align='center'>Model Selection Results</p>
   </p>
 </p>
-<h4>Parameter Tuning</h4>  
+<h4>Hyperparameter Tuning</h4>  
+<p align='justify'>Once again due to harware limitations and time, I decided that I would conduct manual hyperparameter tuning in order to better improve my model. While using automated hyperparameter tuning methods such as random search or Optuna would have likely resulted in even greater improvements to the models accuracy, the time taken to conduct these methods not only took far too long but often times resulted in memory errors. </p>
+</n>
+<p align='justify'>For my model, I decided to tune the number of iterations of SGD (stochastic gradient descent), the learning rate and the regularization term of the model. For each of these hyperparameters, I considered a range of values that was centered aroung the default value of these hyperparameters, I then plotted RMSE of the SVD model when the hyperparameter was set to each value to decide the best value of each hyperparameter. </p>
+</n>
+<p align='justify'> When considering the optimal number of iterations on the SGD procedure (n_epochs) the model should take, the default number of iterations, 20 was found to produce the best results as seen in the plot below.</p>
+</n>
+<p align='center'>
+  <img width=350 heigh=300 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%203.png?raw=true">
+</p>
 
   
 
