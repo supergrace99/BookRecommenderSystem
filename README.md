@@ -120,13 +120,16 @@ Therefore, I've decided to combine my interest in data science with my love for 
 </n>
 <p align='justify'>For my model, I decided to tune the number of iterations of SGD (stochastic gradient descent), the learning rate and the regularization term of the model. For each of these hyperparameters, I considered a range of values that was centered aroung the default value of these hyperparameters, I then plotted RMSE of the SVD model when the hyperparameter was set to each value to decide the best value of each hyperparameter. </p>
 </n>
-<p align='justify'> When considering the optimal number of iterations on the SGD procedure (n_epochs) the model should take, the default number of iterations, 20 was found to produce the best results as seen in the plot below.</p>
+<p align='justify'> When considering the optimal number of iterations on the SGD procedure (n_epochs) the model should take, the default number of iterations, 20 was found to produce the best results as seen in the plot below, where the RMSE of the model is at its lowest when n_epochs is 20</p>
 </n>
 <p align='center'>
   <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%203.png?raw=true">
 </p>
-
-  
+<p align='justify'> The learning rate (lr_all) chosen was 0.006. Despite the default learning rate of 0.005 having a lower RMSE, I found that 0.006 was at the elbow of the plot as seen below. The smaller the learning rate of the model, the longer the smaller the steps taken by the model at each SGD iteration. As such, smaller learning rates would take a longer time to train. By selecting 0.006 which is at the elbow of the plot, I believe I am best able to balance the need for the model to train at a reasoanble pace while mainitaing the accuracy of the model. Should I have selected 0.005, I believe that the benefit of the slightly better accuracy of te model would have been offset by the far longer time it would take to train the model.</p>
+</n>
+<p align='center'>
+  <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%204.png?raw=true">
+</p>
 
 
  
