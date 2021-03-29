@@ -118,7 +118,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <h4>Hyperparameter Tuning</h4>  
 <p align='justify'>Once again due to harware limitations and time, I decided that I would conduct manual hyperparameter tuning in order to better improve my model. While using automated hyperparameter tuning methods such as random search or Optuna would have likely resulted in even greater improvements to the models accuracy, the time taken to conduct these methods not only took far too long but often times resulted in memory errors. </p>
 </n>
-<p align='justify'>For my model, I decided to tune the number of iterations of SGD (stochastic gradient descent), the learning rate and the regularization term of the model. For each of these hyperparameters, I considered a range of values that was centered aroung the default value of these hyperparameters, I then plotted RMSE of the SVD model when the hyperparameter was set to each value to decide the best value of each hyperparameter. </p>
+<p align='justify'>For my model, I decided to tune the number of iterations of SGD (stochastic gradient descent), the learning rate and the regularization term of the model. For each of these hyperparameters, I considered a range of values that was centered aroung the default value of these hyperparameters, I then plotted RMSE of the SVD model when the hyperparameter was set to each value to decide the best value of each hyperparameter. This process was recorded in Parameter Tuning.ipynb </p>
 </n>
 <p align='justify'> When considering the optimal number of iterations on the SGD procedure (n_epochs) the model should take, the default number of iterations, 20 was found to produce the best results as seen in the plot below, where the RMSE of the model is at its lowest when n_epochs is 20</p>
 </n>
@@ -134,7 +134,9 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <p align='center'>
   <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%205.png?raw=true">
 </p>
-<p align='justify'> Through parameter tuning, I was able to further improve the model such that it was now better than the baseline model by 4% from the initial 3% prior to parameter tuning. Once again, as colllaboraive filtering only uses users rating to make predictions and that historically building recommender systems do not show that great of an improvement from baseline models, a 1% improvement is condisdered good improvement to the model.
+<p align='justify'> Through parameter tuning, I was able to further improve the model such that it was now better than the baseline model by nearly 4% (3.8%) from the initial 3% prior to parameter tuning. Once again, as colllaboraive filtering only uses users rating to make predictions and that historically building recommender systems do not show that great of an improvement from baseline models, a 1% improvement is condisidered a good improvement to the model.The model was then used to build the recomender system as seen in Interface.ipynb</p>
+</n>
+
 
 
  
