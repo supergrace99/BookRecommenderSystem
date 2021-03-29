@@ -134,7 +134,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
   <p align='center'>
   <img width=390 heigh=390 src="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Images/Image%205.png?raw=true">
 </p>
-<p align='justify'> Through parameter tuning, I was able to further improve the model such that it was better than the baseline model by 4% from the initial 3% prior to parameter tuning. A 1% increase 
+<p align='justify'> Through parameter tuning, I was able to further improve the model such that it was better than the baseline model by 4% from the initial 3% prior to parameter tuning. 
 
 
  
