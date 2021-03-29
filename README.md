@@ -138,8 +138,27 @@ Therefore, I've decided to combine my interest in data science with my love for 
 <p align='justify'> Through parameter tuning, I was able to further improve the model such that it was now better than the baseline model by nearly 4% (3.8%) from the initial 3% prior to parameter tuning. Once again, as colllaboraive filtering only uses users rating to make predictions and that historically building recommender systems do not show that great of an improvement from baseline models, a 1% improvement is condisidered a good improvement to the model.The model was then used to build the recomender system as seen in Interface.ipynb</p>
 </n>
 </details>
-
-
+<h3> How It Works </h3>
+<p align='justify'>To see this work, please ensure that you have downloaded the following files and data sets from this git repo and ensure that the datasets are mapped to the location that you have stored them on your local computer in Interface.ipynb. Furthermore, please esure that you are able to use the function found in Recommender.py in Interface.ipynb by ensuring that both these files are located in the same folder </p>
+<ul>
+  <li><b>DataSet.csv.zip</b></li>
+  <li><b>book_list.csv</b></li>
+  <li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Recommender.py"><b>Recommender.py</b></li>
+<li><a href="https://github.com/supergrace99/BookRecommenderSystem/blob/main/Interface.ipynb"><b>Interface.ipynb</b></li>
+  </ul>
+<details>
+  <summary><h4>Steps</h4></summary>
+  <ol>
+    <li>Using the book_search() function, search for the book_id's of the books you want the recommender system to base its recommendations on, I suggest including both books that you've loved and hated.</li>
+    <li>With your_profile() enter the book id and rating (on a scale of 1-5) you would give the books you want the recommender system to base its recommendations on. Should you have made a mistake or want to remove the last rating you made, run clear_last()</li>
+    <li>Repeat steps 1-2 until you are satisfied. Remember, the more books you rank, the greater the greater the accuracy of the book recommender will be. Should you be interested in viewing all the books you have rated and that will be used to make recommendations for you, run profile_show()r</li>
+    <li>To see your recommendations, run the recommender() function. Please wait for up to 15min for the model to run</li>
+  </ol>
+  <p align:'justify'><b>Note:</b></p>
+  <ul>
+    <li>Should the book recommender give you too many recommendations of books from the same series, please use the book_id of one of the books from the series and give it a rating of 1 on your_profile(). Do the same thing to book recommendations that are not reflective of your taste.
+    <li>Be prepared for certain inaccuraccies should you make only a few ratings as on average, the users used to make this model have made 111 ratings, a downfall of collaborative filtering is that the accuracy of the model is dependant on the number of ratings the user and books have, fewer ratings lead to less accurate recommendations.</li>
+  </ul>
 
 
 
