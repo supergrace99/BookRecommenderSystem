@@ -51,6 +51,7 @@ Therefore, I've decided to combine my interest in data science with my love for 
 </details>
 </n>
 <h3>Executive Summary</h3>
+<details>
 <h4>Data Preprocessing </h4>
 <p align='justify'>
   In order to build a recommendation system via collaborative filetering, a data set that contains a way of identify a user (user_id), the book they are rating (book_id) and their actual rating (rating) of the book must be created. To do this, the datasets books.csv and ratings.csv were used. While the ratings.csv dataset, contained all relevant information required to build the recommendation system, the books.csv was needed to identify the books from their book id as the dataset contains important information such as the title, authors and language of the book along with their respective book ID (book_id).</p>
@@ -136,6 +137,9 @@ Therefore, I've decided to combine my interest in data science with my love for 
 </p>
 <p align='justify'> Through parameter tuning, I was able to further improve the model such that it was now better than the baseline model by nearly 4% (3.8%) from the initial 3% prior to parameter tuning. Once again, as colllaboraive filtering only uses users rating to make predictions and that historically building recommender systems do not show that great of an improvement from baseline models, a 1% improvement is condisidered a good improvement to the model.The model was then used to build the recomender system as seen in Interface.ipynb</p>
 </n>
+</details>
+
+
 
 
 
